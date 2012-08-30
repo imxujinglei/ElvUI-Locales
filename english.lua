@@ -9,6 +9,9 @@ end
 
 if not L then return; end
 
+--TEMP
+L['Portraits are temporarily forced to 2d for non directx 11 users.'] = true;
+
 --ActionBars
 L[" |cff00ff00bound to |r"] = true;
 L["Action Paging"] = true;
