@@ -227,8 +227,8 @@ Exemple: Interface\AddOns\ElvUI\media\textures\copy
 Ou pour la majorité des utilsateurs, il serait plus simple de mettre le fichier tga dans le dossier de World of Warcraft puis de taper son nom ici.]=]
 
 --Config / Install
-L["Auras Set"] = true;
-L["Auras System"] = true;
+L["Auras Set"] = "Configuration des Auras";
+L["Auras System"] = "Système d'Auras";
 L["Caster DPS"] = "DPS Distance"
 L["Chat Set"] = "Chat configuré"
 L['Choose a theme layout you wish to use for your initial setup.'] = "Choisissez un modèle de thème que vous souhaitez utiliser pour votre configuration initiale."
@@ -243,14 +243,14 @@ L["Grid Size:"] = "Taille de la Grille:"
 L["Healer"] = "Soigneur"
 L["High Resolution"] = "Haute Résolution"
 L["high"] = "Haute"
-L['Icons Only'] = true;
-L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = true;
+L['Icons Only'] = "Icônes seulement";
+L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = "Si vous avez une icône ou une barre d'aura que vous ne souhaitez pas afficher il suffit de maintenir la touche MAJ enfoncée et d'effectuer un clic droit sur l'icône correspondante pour la faire disparaitre."
 L["Importance: |cff07D400High|r"] = "Importance: |cff07D400Haute|r"
 L["Importance: |cffD3CF00Medium|r"] = "Importance: |cffD3CF00Moyenne|r"
 L["Importance: |cffFF0000Low|r"] = "Importance: |cffFF0000Faible|r"
 L["Install"] = "Installer"
 L["Installation Complete"] = "Installation terminée"
-L['Integrated'] = true;
+L['Integrated'] = "Intégré"
 L["Layout Set"] = "Disposition configurée"
 L["Layout"] = "Disposition"
 L["Lock"] = "Verrouiller"
@@ -264,7 +264,7 @@ L["Please press the continue button to go onto the next step."] = "Pour passer �
 L["Resolution Style Set"] = "Paramètre de résolution configuré"
 L["Resolution"] = "Résolution"
 L["Run the installation process."] = "Démarrer le processus d'installation."
-L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = "Sélectionnez le système d'aura que vous souhaitez utiliser avec les cadres d'unités d'ElvUI. Le système intégré utilise à la fois les barres d'aura et les icônes alors qu'Icônes seulement affichera uniquement les icônes et non les barres d'auras."
 L["Setup Chat"] = "Configurer le Chat."
 L["Setup CVars"] = "Configurer les CVars"
 L["Skip Process"] = "Passer cette étape"
