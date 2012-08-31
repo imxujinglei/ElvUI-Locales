@@ -3,8 +3,8 @@ local L = AceLocale:NewLocale("ElvUI", "esES") or AceLocale:NewLocale("ElvUI", "
 if not L then return end
 
 --TEMP
-L['Portraits are temporarily forced to 2d for non directx 11 users.'] = true;
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = true;
+L['Portraits are temporarily forced to 2d for non directx 11 users.'] = 'Se han forzado temporalmente los retratos 2d para quien no use directx 11.'
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Ha ocurrido un problema que no te permite cambiar tus talentos y glifos, esto puede suceder si has inspeccionado a alguien. Desgraciadamente no podemos hacer nada para arreglarlo, por favor recarga tu interfaz y vuelve a intentarlo."
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = " |cff00ff00ligado(a) a |r"
@@ -227,7 +227,7 @@ Ejemplo: Interface\AddOns\ElvUI\media\textures\copy
 O también puedes simplemente colocar un archivo tga en la carpeta de WoW, y escribir aquí el nombre del archivo.]=]
 
 --Config / Install
-L["Auras Set"] = "Conjunto de Auras"
+L["Auras Set"] = "Auras Configuradas"
 L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Hechizos"
 L["Chat Set"] = "Chat Configurado"
