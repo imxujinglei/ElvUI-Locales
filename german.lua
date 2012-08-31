@@ -582,7 +582,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "Bist du sicher, das du alle grauen Gegenstände löschen willst?"
 L["Are you sure you want to disband the group?"] = "Bist Du Dir sicher, dass Du die Gruppe auflösen willst?"
 L["Are you sure you want to reset every mover back to it's default position?"] = "Bist du dir sicher, das du jeden Beweger an die Standard Position zurücksetzen möchtest?"
-L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last setup and click finished to not be prompted again."] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = true;
 L["Can't buy anymore slots!"] = "Kann keine Slots mehr kaufen"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "Bewege deine Maus über einen Aktionsbutton oder dein Zauberbuch um ihn mit einem Hotkey zu belegen. Drücke Escape oder Rechte Maustaste um die aktuelle Tastenbelegeung des Buttons zu löschen."
 L["One or more of the changes you have made require a ReloadUI."] = "Eine oder mehrere Einstellung die du vorgenommen hast benötigen ein Neuladen des UI um in Effekt zu treten."

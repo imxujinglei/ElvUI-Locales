@@ -584,7 +584,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "是否確定要刪除所有灰色物品？";
 L["Are you sure you want to disband the group?"] = "是否確定要解散隊伍？";
 L["Are you sure you want to reset every mover back to it's default position?"] = "是否確定要將所有元件重設至預設位置？";
-L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last setup and click finished to not be prompted again."] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = true;
 L["Can't buy anymore slots!"] = "無法再購買更多銀行欄位！";
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "游標移至快捷列或技能書上的按鈕，綁定該按鈕。按 ESC 鍵或按一下右鍵取消快捷綁定。";
 L["One or more of the changes you have made require a ReloadUI."] = "已變更一或多個設定，需重載介面。";
