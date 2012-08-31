@@ -227,7 +227,7 @@ Ejemplo: Interface\AddOns\ElvUI\media\textures\copy
 O también puedes simplemente colocar un archivo tga en la carpeta de WoW, y escribir aquí el nombre del archivo.]=]
 
 --Config / Install
-L["Auras Set"] = true;
+L["Auras Set"] = "Conjunto de Auras"
 L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Hechizos"
 L["Chat Set"] = "Chat Configurado"
