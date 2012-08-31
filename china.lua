@@ -227,6 +227,8 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 对多数玩家来说，较简易的方式是将 tga 档放入 WoW 资料夹中，然后在此处输入档案名称。]=]
 
 --Config / Install
+L["Auras Set"] = true;
+L["Auras System"] = true;
 L["Caster DPS"] = "法系输出"
 L["Chat Set"] = "聊天设定"
 L['Choose a theme layout you wish to use for your initial setup.'] = true;
@@ -241,11 +243,14 @@ L["Grid Size:"] = "Grid 尺寸:" -- Needs review
 L["Healer"] = "补师"
 L["High Resolution"] = true;
 L["high"] = "高" -- Needs review
+L['Icons Only'] = true;
+L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = true;
 L["Importance: |cff07D400High|r"] = "重要度: |cff07D400高|r"
 L["Importance: |cffD3CF00Medium|r"] = "重要性: |cffD3CF00中|r"
 L["Importance: |cffFF0000Low|r"] = "重要性：|cffFF0000低|r" -- Needs review
 L["Install"] = "安装"
 L["Installation Complete"] = "安装完成"
+L['Integrated'] = true;
 L["Layout Set"] = "界面布局设置" -- Needs review
 L["Layout"] = "界面布局" -- Needs review
 L["Lock"] = "锁定"
@@ -259,6 +264,7 @@ L["Please press the continue button to go onto the next step."] = "请按继续�
 L["Resolution Style Set"] = "分辨率样式设置" -- Needs review
 L["Resolution"] = "分辨率" -- Needs review
 L["Run the installation process."] = "执行安装程序"
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
 L["Setup Chat"] = "设定对话视窗"
 L["Setup CVars"] = "设定参数"
 L["Skip Process"] = "略过"
@@ -577,6 +583,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = true;
 L["Are you sure you want to disband the group?"] = "确定要解散队伍?"
 L["Are you sure you want to reset every mover back to it's default position?"] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last setup and click finished to not be prompted again."] = true;
 L["Can't buy anymore slots!"] = "银行背包栏位已达最大值"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "移动滑鼠到快捷列或技能书按钮上绑定快捷键. 按ESC或滑鼠右键取消目前快捷键"
 L["One or more of the changes you have made require a ReloadUI."] = "已变更一或多个设定，需重载介面."

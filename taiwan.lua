@@ -228,6 +228,8 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 對多數玩家來說，較簡易的方式是將 tga 檔放入 WoW 資料夾中，然後在此處輸入檔案名稱。]=];
 
 --Config / Install | 設定 / 安裝設定
+L["Auras Set"] = true;
+L["Auras System"] = true;
 L["Caster DPS"] = "遠程輸出";
 L["Chat Set"] = "聊天設定完畢";
 L['Choose a theme layout you wish to use for your initial setup.'] = true;
@@ -242,11 +244,14 @@ L["Grid Size:"] = "Grid 尺寸：";
 L["Healer"] = "補師";
 L["High Resolution"] = true;
 L["high"] = "高";
+L['Icons Only'] = true;
+L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = true;
 L["Importance: |cff07D400High|r"] = "重要性：|cff07D400高|r";
 L["Importance: |cffD3CF00Medium|r"] = "重要性：|cffD3CF00中|r";
 L["Importance: |cffFF0000Low|r"] = "重要性：|cffFF0000低|r";
 L["Install"] = "安裝";
 L["Installation Complete"] = "安裝完畢";
+L['Integrated'] = true;
 L["Layout Set"] = "版面配置設定";
 L["Layout"] = "版面配置";
 L["Lock"] = "鎖定";
@@ -260,6 +265,7 @@ L["Please press the continue button to go onto the next step."] = "請按「繼�
 L["Resolution Style Set"] = "解析度樣式設定";
 L["Resolution"] = "解析度";
 L["Run the installation process."] = "執行安裝程序。";
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
 L["Setup Chat"] = "設定對話視窗";
 L["Setup CVars"] = "設定參數";
 L["Skip Process"] = "略過程序";
@@ -578,6 +584,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "是否確定要刪除所有灰色物品？";
 L["Are you sure you want to disband the group?"] = "是否確定要解散隊伍？";
 L["Are you sure you want to reset every mover back to it's default position?"] = "是否確定要將所有元件重設至預設位置？";
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last setup and click finished to not be prompted again."] = true;
 L["Can't buy anymore slots!"] = "無法再購買更多銀行欄位！";
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "游標移至快捷列或技能書上的按鈕，綁定該按鈕。按 ESC 鍵或按一下右鍵取消快捷綁定。";
 L["One or more of the changes you have made require a ReloadUI."] = "已變更一或多個設定，需重載介面。";

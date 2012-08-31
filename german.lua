@@ -226,6 +226,8 @@ Zum Beispiel: Interface\AddOns\ElvUI\media\textures\copy
 Oder für die meisten Anwender wäre es einfacher, einfach ein tga-Datei in Ihrem WoW-Ordner zu geben. Dann gib den Namen der Datei hier an.]=]
 
 --Config / Install
+L["Auras Set"] = true;
+L["Auras System"] = true;
 L["Caster DPS"] = "Fernkampf DD"
 L["Chat Set"] = "Chat gesetzt"
 L['Choose a theme layout you wish to use for your initial setup.'] = 'Wähle ein Themen Layout das du bei deinem ersten Setup verwenden möchtest.'
@@ -240,11 +242,14 @@ L["Grid Size:"] = "Raster Größe:"
 L["Healer"] = "Heiler"
 L["High Resolution"] = "Hohe Auflösung"
 L["high"] = "hoch"
+L['Icons Only'] = true;
+L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = true;
 L["Importance: |cff07D400High|r"] = "Bedeutung: |cff07D400Hoch|r"
 L["Importance: |cffD3CF00Medium|r"] = "Bedeutung: |cffD3CF00Mittel|r"
 L["Importance: |cffFF0000Low|r"] = "Bedeutung: |cffD3CF00Niedrig|r"
 L["Install"] = "Installation"
 L["Installation Complete"] = "Installation komplett"
+L['Integrated'] = true;
 L["Layout Set"] = "Layout gesetzt"
 L["Layout"] = "Layout"
 L["Lock"] = "Sperren"
@@ -258,6 +263,7 @@ L["Please press the continue button to go onto the next step."] = "Bitte drücke
 L["Resolution Style Set"] = "Auflösungs Stil gesetzt"
 L["Resolution"] = "Auflösung"
 L["Run the installation process."] = "Startet den Insallationsprozess."
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
 L["Setup Chat"] = "Chat Einstellungen"
 L["Setup CVars"] = "Installiere CVars"
 L["Skip Process"] = "Schritt überspringen"
@@ -576,6 +582,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "Bist du sicher, das du alle grauen Gegenstände löschen willst?"
 L["Are you sure you want to disband the group?"] = "Bist Du Dir sicher, dass Du die Gruppe auflösen willst?"
 L["Are you sure you want to reset every mover back to it's default position?"] = "Bist du dir sicher, das du jeden Beweger an die Standard Position zurücksetzen möchtest?"
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last setup and click finished to not be prompted again."] = true;
 L["Can't buy anymore slots!"] = "Kann keine Slots mehr kaufen"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "Bewege deine Maus über einen Aktionsbutton oder dein Zauberbuch um ihn mit einem Hotkey zu belegen. Drücke Escape oder Rechte Maustaste um die aktuelle Tastenbelegeung des Buttons zu löschen."
 L["One or more of the changes you have made require a ReloadUI."] = "Eine oder mehrere Einstellung die du vorgenommen hast benötigen ein Neuladen des UI um in Effekt zu treten."
