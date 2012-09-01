@@ -3,8 +3,8 @@ local L = AceLocale:NewLocale("ElvUI", "ptBR")
 if not L then return end
 
 --TEMP
-L['Portraits are temporarily forced to 2d for non directx 11 users.'] = true;
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = true;
+L['Portraits are temporarily forced to 2d for non directx 11 users.'] = "Os retratos estão temporariamente forçados para 2d para utilizadores que não têm o directx 11."
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Ocorreu um problema que está a impedir que use os seus Talentos/Glifos, isto pode acontecer caso tenha inspeccionado alguém. Infelizmente não há nada que possamos fazer para corrigir o problema. Recarregue a sua ui e tente novamente."
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = " |cff00ff00Ligado a |r"
@@ -228,8 +228,8 @@ Example: Interface\AddOns\ElvUI\media\textures\copy
 Para a maioria dos utilizadores seria mais fácil simplesmente meter o ficheiro tga na pasta do WoW e depois escrever o nome do ficheiro aqui.]=]
 
 --Config / Install
-L["Auras Set"] = true;
-L["Auras System"] = true;
+L["Auras Set"] = "Auras definidas"
+L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Lançador"
 L["Chat Set"] = "Definições de Conversação"
 L['Choose a theme layout you wish to use for your initial setup.'] = "Escolha tema de layout que deseje usar inicialmente";
@@ -244,14 +244,14 @@ L["Grid Size:"] = "Tamanho da Grelha";
 L["Healer"] = "Curandeiro"
 L["High Resolution"] = "Alta Resolução";
 L["high"] = "alto"
-L['Icons Only'] = true;
-L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = true;
+L['Icons Only'] = "Apenas Icons"
+L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = "Se existir um icon ou uma barra de aura que você não queira ver exibida simplesmente mantenha pressionada a tecla Shift e clique no icon com o botão direito do rato para que o icon/barra de aura desapareça."
 L["Importance: |cff07D400Alta|r"] = "Importância: |cff07D400Alta|r"
 L["Importance: |cffD3CF00Média|r"] = "Importância: |cffD3CF00Média|r"
 L["Importance: |cffFF0000Baixa|r"] = "Importância: |cffFF0000Baixa|r"
 L["Install"] = "Instalação"
 L["Installation Complete"] = "Instalação Completa"
-L['Integrated'] = true;
+L['Integrated'] = "Integrado"
 L["Layout Set"] = "Definições do Layout"
 L["Layout"] = "Layout"
 L["Lock"] = "Bloquear"
@@ -265,7 +265,7 @@ L["Please press the continue button to go onto the next step."] = "Por favor, pr
 L["Resolution Style Set"] = "Estilo de Resolução defenido";
 L["Resolution"] = "Resolução"
 L["Run the installation process."] = "Execute o processo de instalação."
-L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = "Seleccione qual o tipo de sistema de auras que deseja usar com os quadros de unidades da ElvUI. O sistema integrado utiliza ambas as barras de auras e os icons de auras. O sistema de Apenas Icons irá exibir apenas os icons sem que as barras de auras sejam usadas."
 L["Setup Chat"] = "Configurar Conversação"
 L["Setup CVars"] = "Configurar CVars"
 L["Skip Process"] = "Saltar Processo"
@@ -410,7 +410,7 @@ L["Enable/Disable the loot roll frame."] = "Activar/Desactivar painel de rolagem
 L['Enable/Disable the minimap. |cffFF0000Warning: This will prevent you from seeing the consolidated buffs bar, and prevent you from seeing the minimap datatexts.|r'] = "Activar/Desactivar o Minimapa. |cffFF0000Aviso: Isto irá impedir que veja a barra de buffs consolidados e os textos informativos do minimapa" ;
 L["General"] = "Geral"
 L['Left'] = "Esquerda"
-L["Log Taints"] = true;
+L["Log Taints"] = "Problemas"
 L["Login Message"] = "Mensagem de Entrada"
 L["LOGIN_MSG"] = "Welcome to %sElvUI|r version %s%s|r, type /ec to access the in-game configuration menu. If you are in need of technical support you can visit us at http://www.tukui.org" "Bem vindo à versão %s%s|r da %sElvUI|r, escreva /ec para aceder ao menu de configuração em jogo. Se precisar de suporte técnico visite-nos no site http://www.tukui.org";
 L["Loot Roll"] = "Rolagem de Saques"
@@ -583,7 +583,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "Tem a certeza de que deseja destruir todos os seus itens cinzentos?"
 L["Are you sure you want to disband the group?"] = "Tem a certeza de que quer dissolver o grupo?"
 L["Are you sure you want to reset every mover back to it's default position?"] = "Tem a certeza de que deseja restaurar todos os movedores de volta para a sua posição padrão?"
-L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = "Devido à grande confusão causada pelo novo sistema de auras foi implementado um novo passo ao processo de instalação. Este passo é opcional, se você gosta de maneira que as suas auras estão configuradas continue para o último passo e clique em Terminado para não ser novamente solicitado a configurar este passo."
 L["Can't buy anymore slots!"] = "Não é possível comprar mais espaços para Sacos"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "Paire com o seu rato por cima de qualquer botão de acção ou botão do livro de feitiços para fazer uma Ligação. Pressione a tecla Escape ou clique direito do rato para limpar o atalho actual.";
 L["One or more of the changes you have made require a ReloadUI."] = "Uma ou mais das alterações que fez requerem que recarregue a UI.";
