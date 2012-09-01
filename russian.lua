@@ -3,8 +3,8 @@ local L = AceLocale:NewLocale("ElvUI", "ruRU")
 if not L then return; end
 
 --TEMP
-L['Portraits are temporarily forced to 2d for non directx 11 users.'] = true;
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = true;
+L['Portraits are temporarily forced to 2d for non directx 11 users.'] = "Портреты временно установлены на 2D для пользователей без directx 11"
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Произошел сбой, препятствующий смене талантов/символов. Это может случится после того, как Вы осмотрели кого-нибудь. К сожалению, я ничего не могу сделать с этим. Пожалуйста, перезагрузите интерфейс и попробуйте снова"
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = " |cff00ff00назначено для |r"
@@ -227,8 +227,8 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 Для большинства пользователей будет легче просто положить tga файл в папку игры, а затем написать имя файла здесь.]=]
 
 --Config / Install
-L["Auras Set"] = true;
-L["Auras System"] = true;
+L["Auras Set"] = "Ауры установлены"
+L["Auras System"] = "Система аур"
 L["Caster DPS"] = "Заклинатель"
 L["Chat Set"] = "Чат настроен"
 L['Choose a theme layout you wish to use for your initial setup.'] = "Выберите тему, которую Вы хотите использовать."
@@ -243,14 +243,14 @@ L["Grid Size:"] = "Размер сетки"
 L["Healer"] = "Лекарь"
 L["High Resolution"] = "Высокое разрешение"
 L["high"] = "высоким"
-L['Icons Only'] = true;
-L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = true;
+L['Icons Only'] = "Только иконки"
+L["If you have an icon or aurabar that you don't want to display simply hold down shift and right click the icon for it to disapear."] = "Если Вы видите иконку или полосу аур, которую Вы не хотите отображать, просто зажмите shift и кликните на иконке правой кнопкой, чтобы она исчезла."
 L["Importance: |cff07D400High|r"] = "Важность: |cff07D400Высокая|r"
 L["Importance: |cffD3CF00Medium|r"] = "Важность: |cffD3CF00Средняя|r"
 L["Importance: |cffFF0000Low|r"] = "Важность: |cffFF0000Низкая|r"
 L["Install"] = "Установка"
 L["Installation Complete"] = "Установка завершена"
-L['Integrated'] = true;
+L['Integrated'] = "Интегрированная"
 L["Layout Set"] = "Расположение установлено"
 L["Layout"] = "Расположение"
 L["Lock"] = "Закрепить"
@@ -264,7 +264,7 @@ L["Please press the continue button to go onto the next step."] = "Пожалу�
 L["Resolution Style Set"] = "Разрешение установлено"
 L["Resolution"] = "Разрешение"
 L["Run the installation process."] = "Запустить процесс установки"
-L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = "Выберите тип системы аур, который вы хотите использовать с рамками юнитов ElvUI. Интегрированная системма использует и полосы аур, и иконки. Система иконок не будет использовать полосы аур."
 L["Setup Chat"] = "Настроить чат"
 L["Setup CVars"] = "Сбросить настройки"
 L["Skip Process"] = "Пропустить установку"
@@ -583,7 +583,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "Вы уверенны, что хотите удалить все предметы серого качества?"
 L["Are you sure you want to disband the group?"] = "Вы уверены, что хотите распустить группу?"
 L["Are you sure you want to reset every mover back to it's default position?"] = "Вы уверены, что хотите сбросить все фиксаторы на позиции по умолчанию?"
-L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = "Из-за массового непонимания новой системы аур, я добавил новый шаг в установку. Он опционален. Если Вам нравится, как сейчас настроены Ваши ауры, передите до последнюю страницу установки и назмите \"Завершить\", чтобы это сообщение больше не появлялось."
 L["Can't buy anymore slots!"] = "Невозможно приобрести больше слотов!"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "Наведите курсор на любую кнопку на панели или в книге заклинаний, чтобы назначит ей клавишу. Нажмите правую кнопку мыши или 'Escape', чтобы сбросить назначение для этой кнопки."
 L["One or more of the changes you have made require a ReloadUI."] = "Одно или несколько изменений требуют перезагрузки интерфейса"
