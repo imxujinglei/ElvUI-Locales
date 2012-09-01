@@ -63,6 +63,7 @@ L["Mouse Over"] = "Com o Rato por cima" --Also used in Bags
 L["Multiply the backdrops height or width by this value. This is usefull if you wish to have more than one bar behind a backdrop."] = "Multiplicar a altura ou comprimento do fundo por este valor. Muito útil se desejar ter mais que uma barra por trás de um fundo";
 L["No bindings set."] = "Sem atalhos definidos";
 L["Pet Bar"] = "Barra do Ajudante"
+L['Remove Bar %d Action Page'] = true;
 L["Restore Bar"] = "Restaurar Barra"
 L["Restore the actionbars default settings"] = "Restaurar as configurações padrões das barras de ações"
 L["Seconds"] = "Segundos"

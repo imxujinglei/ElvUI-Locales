@@ -63,6 +63,7 @@ L["Mouse Over"] = "마우스 오버" --Also used in Bags
 L["Multiply the backdrops height or width by this value. This is usefull if you wish to have more than one bar behind a backdrop."] = "이 값의 배율로 배경의 높이 또는 너비만큼 백그라운드가 추가 됩니다. 이는 당신이 이 새로 생성된 백그라운드에 하나 이상의 바를 더 생성할 경우 유용합니다."
 L["No bindings set."] = "설정된 단축키가 없음"
 L["Pet Bar"] = "소환수 바"
+L['Remove Bar %d Action Page'] = true;
 L["Restore Bar"] = "바 복원"
 L["Restore the actionbars default settings"] = "행동단축바 기본값 복원"
 L["Seconds"] = "초"

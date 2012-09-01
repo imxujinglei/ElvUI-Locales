@@ -63,6 +63,7 @@ L["Mouse Over"] = "Au survol"
 L["Multiply the backdrops height or width by this value. This is usefull if you wish to have more than one bar behind a backdrop."] = "Multiplie la hauteur ou la largeur de l'arrière-plan par cette valeur. Ce paramètre est utile quand vous souhaitez avoir une barre de plus en arrière-plan."
 L["No bindings set."] = "Aucune assignation"
 L["Pet Bar"] = "Barre de familier"
+L['Remove Bar %d Action Page'] = true;
 L["Restore Bar"] = "Restaurer la barre"
 L["Restore the actionbars default settings"] = "Restaure la barre d'actions avec ses paramètres par défaut."
 L["Seconds"] = "Secondes"

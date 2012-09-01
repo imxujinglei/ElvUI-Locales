@@ -64,6 +64,7 @@ L["Mouse Over"] = "Mous Over" --Also used in Bags
 L["Multiply the backdrops height or width by this value. This is usefull if you wish to have more than one bar behind a backdrop."] = "Multipliziere die Hohe und die Breite des Hintergrundes. Das ist nützlich wenn du mehr als eine Leiste hinter einen Hintergrund haben möchtest."
 L["No bindings set."] = "Keine Belegungen gesetzt."
 L["Pet Bar"] = "Begleisterleiste"
+L['Remove Bar %d Action Page'] = true;
 L["Restore Bar"] = "Leiste zurücksetzen"
 L["Restore the actionbars default settings"] = "Wiederherstellung der Standard Aktionsleisten Einstellung"
 L["Seconds"] = "Sekunden"

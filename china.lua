@@ -63,6 +63,7 @@ L["Mouse Over"] = "滑鼠滑过显示" --Also used in Bags
 L["Multiply the backdrops height or width by this value. This is usefull if you wish to have more than one bar behind a backdrop."] = "根据此值增加背景的高度或宽度. 一般用来在一个背景框里放置多条快捷列"
 L["No bindings set."] = "无绑定设定"
 L["Pet Bar"] = "宠物快捷列"
+L['Remove Bar %d Action Page'] = true;
 L["Restore Bar"] = "还原快捷列"
 L["Restore the actionbars default settings"] = "恢复此快捷列的预设设定"
 L["Seconds"] = true;
