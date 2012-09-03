@@ -131,7 +131,7 @@ L["Y Offset"] = "Cordenada Y"; --Another variation in unitframes yOffset
 L["You must be at a vendor."] = "Tem de estar num vendedor.";
 
 --Buffs and Debuffs
-L['AURAS_DESC'] = "Cinfigurar os icons das auras que aparecem perto do minimapa."
+L['AURAS_DESC'] = "Configurar os icons das auras que aparecem perto do minimapa."
 L['Begin a new row or column after this many auras.'] = "Começar uma nova coluna ou linha depois de tantas auras";
 L['Consolidated Buffs'] = "Consolidar Buffs";
 L['Defines how the group is sorted.'] = "Define como o grupo é organizado";

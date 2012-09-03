@@ -228,7 +228,7 @@ Oder für die meisten Anwender wäre es einfacher, einfach ein tga-Datei in Ihre
 
 --Config / Install
 L["Auras Set"] = "Auren gesetzt" 
-L["Auras System"] = "Auran System"
+L["Auras System"] = "Auren System"
 L["Caster DPS"] = "Fernkampf DD"
 L["Chat Set"] = "Chat gesetzt"
 L['Choose a theme layout you wish to use for your initial setup.'] = 'Wähle ein Themen Layout das du bei deinem ersten Setup verwenden möchtest.'
