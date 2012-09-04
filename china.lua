@@ -265,7 +265,7 @@ L["Please press the continue button to go onto the next step."] = "请按继续�
 L["Resolution Style Set"] = "分辨率样式设置" -- Needs review
 L["Resolution"] = "分辨率" -- Needs review
 L["Run the installation process."] = "执行安装程序"
-L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used."] = true;
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used. The classic system will configure your auras to how they were pre-v4."] = true;
 L["Setup Chat"] = "设定对话视窗"
 L["Setup CVars"] = "设定参数"
 L["Skip Process"] = "略过"
@@ -584,7 +584,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = true;
 L["Are you sure you want to disband the group?"] = "确定要解散队伍?"
 L["Are you sure you want to reset every mover back to it's default position?"] = true;
-L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again."] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again. If for some reason you are prompted repeatedly please restart your game."] = true;
 L["Can't buy anymore slots!"] = "银行背包栏位已达最大值"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "移动滑鼠到快捷列或技能书按钮上绑定快捷键. 按ESC或滑鼠右键取消目前快捷键"
 L["One or more of the changes you have made require a ReloadUI."] = "已变更一或多个设定，需重载介面."
