@@ -265,7 +265,7 @@ L["Please press the continue button to go onto the next step."] = "Pour passer �
 L["Resolution Style Set"] = "Paramètre de résolution configuré"
 L["Resolution"] = "Résolution"
 L["Run the installation process."] = "Démarrer le processus d'installation."
-L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used. The classic system will configure your auras to how they were pre-v4."] = true;
+L["Select the type of aura system you want to use with ElvUI's unitframes. The integrated system utilizes both aura-bars and aura-icons. The icons only system will display only icons and aurabars won't be used. The classic system will configure your auras to how they were pre-v4."] = "Sélectionnez le système d'aura que vous souhaitez utiliser avec les cadres d'unités d'ElvUI. Le système intégré utilise à la fois les barres d'aura et les icônes alors qu'Icônes seulement affichera uniquement les icônes et non les barres d'auras. Le système classique configurera vos auras comme elles étaient avant la version 4 d'ElvUI."
 L["Setup Chat"] = "Configurer le Chat."
 L["Setup CVars"] = "Configurer les CVars"
 L["Skip Process"] = "Passer cette étape"
@@ -584,7 +584,7 @@ L["A setting you have changed will change an option for this character only. Thi
 L["Are you sure you want to delete all your gray items?"] = "Êtes-vous sûr de vouloir détruire tous vos Objets Gris ?"
 L["Are you sure you want to disband the group?"] = "Êtes-vous sûr de vouloir dissoudre le groupe ? "
 L["Are you sure you want to reset every mover back to it's default position?"] = "Êtes-vous sûre de vouloir réinitialiser tous les cadres à leur position par défaut ?"
-L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again. If for some reason you are prompted repeatedly please restart your game."] = true;
+L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again. If for some reason you are prompted repeatedly please restart your game."] = "En raison de la confusion générale provoquée par le nouveau système d'aura, j'ai mis en place une nouvelle étape dans le processus d'installation. Cette option est facultative. Si vous aimez la façon dont vos auras sont configurés allez à la dernière étape et cliquez sur Terminé pour ne pas être averti à nouveau.  Si, pour une raison quelconque, vous êtes averti de nouveau, relancez complètement le jeu."
 L["Can't buy anymore slots!"] = "Impossible d'acheter plus emplacements !"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "Passez votre souris sur n'importe quel bouton d'action ou bouton du grimoire pour lui attribuer un raccourcis. Appuyez sur la touche Echap ou le clic droit pour effacer le raccourci en cours."
 L["One or more of the changes you have made require a ReloadUI."] = "Une ou plusieurs modifications que vous avez effectuées necessitent un ReloadUi."
