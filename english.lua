@@ -869,8 +869,8 @@ Examples:
 Health / Power Formats:
 'current' - current amount
 'percent' - percentage amount
-'current-max' - current amount followed by maximum amount, will display only max is current is equal to max
-'current-percent' - current amount followed by percentage amount, will display only max is current is equal to max
+'current-max' - current amount followed by maximum amount, will display only max if current is equal to max
+'current-percent' - current amount followed by percentage amount, will display only max if current is equal to max
 'current-max-percent' - current amount, max amount, followed by percentage amount, will display only max if current is equal to max
 'deficit' - display the deficit value, will display nothing if there is no deficit
 
