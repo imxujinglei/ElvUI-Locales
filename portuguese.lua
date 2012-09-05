@@ -578,7 +578,7 @@ L["TOGGLESKIN_DESC"] = "Activa/Desactiva esta aparência."
 L["Trade Frame"] = "Quadro de negociação"
 L["TradeSkill Frame"] = "Quadro de Habilidade Comercial";
 L["Trainer Frame"] = "Quadro de treinadores"
-L['Transmogrify Frame'] = "Quadro de Modificação";
+L['Transmogrify Frame'] = "Quadro de Transmogrificação";
 L["World Map"] = "Mapa Mundo"
 
 --Static Popups
