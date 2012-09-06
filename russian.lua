@@ -138,13 +138,13 @@ L['Defines how the group is sorted.'] = "Определяет условия с�
 L['Defines the sort order of the selected sort method.'] = "Определяет порядок в выбранном методе сортировки."
 L['Display the consolidated buffs bar.'] = "Отображать полосу объединенных эффектов."
 L["Fade Threshold"] = "Значение мерцания"
-L['Filter Consolidated'] = true;
+L['Filter Consolidated'] = "Фильтровать объединенные"
 L['Index'] = "Порядок наложения"
 L['Indicate whether buffs you cast yourself should be separated before or after.'] = "Определяет должны ли Ваши баффы находиться отдельно перед или после остальных."
 L['Limit the number of rows or columns.'] = "Определяет максимальное количество рядов/столбцов."
 L['Max Wraps'] = "Максимум рядов"
 L['No Sorting'] = "Без сортировки"
-L['Only show consolidated icons on the consolidated bar that your class/spec is interested in. This is useful for raid leading.'] = true;
+L['Only show consolidated icons on the consolidated bar that your class/spec is interested in. This is useful for raid leading.'] = "Отображать баффы, которые подходят для Вашего класса/специализации, только на панели объединенных баффов."
 L["Other's First"] = "Сначала чужие"
 L['Seperate'] = "Разделение"
 L['Set the size of the individual auras.'] = "Устанавливает размер аур"
@@ -579,7 +579,7 @@ L["TOGGLESKIN_DESC"] = "Включить/выключить этот скин."
 L["Trade Frame"] = "Обмен"
 L["TradeSkill Frame"] = "Профессия"
 L["Trainer Frame"] = "Тренер"
-L['Transmogrify Frame'] = true;
+L['Transmogrify Frame'] = "Окно транмсмогрификации"
 L["World Map"] = "Карта мира"
 
 --Static Popups
