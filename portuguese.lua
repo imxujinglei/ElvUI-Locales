@@ -307,12 +307,12 @@ L["ELVUI_CREDITS"] = "Gostaria de agradecer especialmente às seguintes pessoas 
 L["Testing:"] = "Testar:"
 
 --DataTexts
-L["(Hold Shift) Memory Usage"] = "(Mantenha a Shift pressionada) Memória em Uso"
-L["24-Hour Time"] = "24 horas"
+L["(Hold Shift) Memory Usage"] = "(Segurar Shift) Memória em Uso";
+L["24-Hour Time"] = "24 horas";
 L['Always Display'] = "Exibir sempre";
-L["AP"] = "PA" --poder de ataque
-L["AVD: "] = "AVD: "
-L["Bandwidth"] = "Largura de Banda"
+L["AP"] = "PA"; --poder de ataque
+L["AVD: "] = "AVD: ";
+L["Bandwidth"] = "Largura de Banda";
 L['Bases Assaulted'] = "Bases Assaltadas";
 L['Bases Defended'] = "Bases Defendidas";
 L['Battleground datatexts temporarily hidden, to show type /bgstats or right click the "C" icon near the minimap.'] = "Os textos Informativos dos Campos de Batalha estão temporáriamente ocultos, para serem mostrados digite /bgstats ou clique direito no ícone 'C' perto do minimapa.";
