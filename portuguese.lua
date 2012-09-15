@@ -89,7 +89,7 @@ Exemplo: '[combat] show;hide']=];
 --Bags
 L["Ascending"] = "Ascendente";
 L["Bag Columns"] = "Colunas das Bolsas";
-L["Bag-Bar"] = "Barra das Bolas";
+L["Bag-Bar"] = "Barra das Bolsas";
 L["Bags"] = "Bolsas"
 L["BAGS_DESC"] = "Ajustar definições das bolsas para a ElvUI."
 L["Bank Columns"] = "Colunas do Banco";
