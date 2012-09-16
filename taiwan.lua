@@ -786,6 +786,7 @@ L["Per Row"] = "每行";
 L["Percent"] = "百分比";
 L["Pet Frame"] = "寵物框架";
 L["PetTarget Frame"] = "寵物的目標框架";
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "玩家框架";
 L["Portrait"] = "頭像";
 L["Position"] = "位置";

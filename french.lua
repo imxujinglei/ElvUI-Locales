@@ -785,6 +785,7 @@ L["Per Row"] = "par ligne"
 L["Percent"] = "Pourcent"
 L["Pet Frame"] = "Cadre du familier"
 L["PetTarget Frame"] = "Cadre de la cible du familier"
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "Cadre du joueur"
 L["Portrait"] = "Portrait"
 L["Position"] = "Position"

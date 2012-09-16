@@ -785,6 +785,7 @@ L["Per Row"] = "Кол-во в ряду"
 L["Percent"] = "Процент"
 L["Pet Frame"] = "Питомец"
 L["PetTarget Frame"] = "Цель питомца"
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "Игрок"
 L["Portrait"] = "Портрет"
 L["Position"] = "Позиция"

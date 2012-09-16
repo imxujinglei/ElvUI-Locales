@@ -785,6 +785,7 @@ L["Per Row"] = "每行"
 L["Percent"] = "百分比"
 L["Pet Frame"] = "宠物框架"
 L["PetTarget Frame"] = "宠物目标框架"
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "玩家框架"
 L["Portrait"] = "单位"
 L["Position"] = "位置"

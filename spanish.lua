@@ -785,6 +785,7 @@ L["Per Row"] = "Por Fila";
 L["Percent"] = "Porcentaje";
 L["Pet Frame"] = "Marco de Mascota";
 L["PetTarget Frame"] = "Marco de Objetivo de Mascota";
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "Marco de Jugador";
 L["Portrait"] = "Retrato";
 L["Position"] = "Posición";

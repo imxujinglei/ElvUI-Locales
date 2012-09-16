@@ -792,6 +792,7 @@ L["Per Row"] = "한 열당 표시되는 수"
 L["Percent"] = "비율"
 L["Pet Frame"] = "소환수 프레임"
 L["PetTarget Frame"] = "소환수 대상 프레임"
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "플레이어 프레임"
 L["Portrait"] = "초상화"
 L["Position"] = "위치"

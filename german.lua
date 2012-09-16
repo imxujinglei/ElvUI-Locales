@@ -784,6 +784,7 @@ L["Per Row"] = "Pro Reihe";
 L["Percent"] = "Prozent"
 L["Pet Frame"] = "Begleiter Fenster"
 L["PetTarget Frame"] = "Begleiter-Ziel Fenster"
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = "Spieler Fenster"
 L["Portrait"] = "Portrait"
 L["Position"] = "Position"
