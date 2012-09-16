@@ -781,6 +781,7 @@ L["Per Row"] = true;
 L["Percent"] = true;
 L["Pet Frame"] = true;
 L["PetTarget Frame"] = true;
+L['Player Frame Aura Bars'] = true;
 L["Player Frame"] = true;
 L["Portrait"] = true;
 L["Position"] = true;
