@@ -647,6 +647,10 @@ L['You can toggle the microbar by using your middle mouse button on the minimap 
 L['You can use the /resetui command to reset all of your movers. You can also use the command to reset a specific mover, /resetui <mover name>.\nExample: /resetui Player Frame'] = 'Вы можете использовать команду /resetui чтобы сбросить положения всех фиксаторов. Вы также можете использовать команду /resetui <имя фиксатора> для сброса определенного фиксатора.\nПример: /resetui Player Frame';
 
 --UnitFrames
+L['Style'] = "Стиль"
+L['Select the display method of the portrait.'] = "Выбирите метод отображения портрета"
+L['2D'] = true --Doesn't need translation
+L['3D'] = true
 L["%s frame(s) has a conflicting anchor point, please change either the buff or debuff anchor point so they are not attached to each other. Forcing the debuffs to be attached to the main unitframe until fixed."] = "Обнаружен конфликт точек фиксирования во фрейме(ах) %s. Пожалуйста, переназначьте фиксирование баффов и дебаффов так, чтобы они не крепились друг к другу. Установлено принудительное крепление дебаффов к фрейму."
 L['Above'] = "Сверху"
 L["Add a spell to the filter."] = "Добавить заклинание в фильтр"
