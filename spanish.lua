@@ -145,6 +145,7 @@ L['Max Wraps'] = "Máximas Filas/Columnas";
 L['No Sorting'] = "No Ordenar";
 L['Only show consolidated icons on the consolidated bar that your class/spec is interested in. This is useful for raid leading.'] = "Mostrar en la barra de consolidados únicamente los beneficios que interesan a tu clase/especialización. Desactivar esto puede ser útil para un líder de banda.";
 L["Other's First"] = "Los de Otros Primero";
+L['Remaining Time'] = "Tiempo Restante";
 L['Style'] = "Estilo";
 L['Seperate'] = "Separar";
 L['Set the size of the individual auras.'] = "Establece el tamaño de las auras individuales.";
