@@ -657,7 +657,6 @@ L['You can toggle the microbar by using your middle mouse button on the minimap 
 L['You can use the /resetui command to reset all of your movers. You can also use the command to reset a specific mover, /resetui <mover name>.\nExample: /resetui Player Frame'] = true;
 
 --UnitFrames
-ex) 10인 공격대에서는 1파티와 2파티만 표시됩니다.]=]
 L["%s frame(s) has a conflicting anchor point, please change either the buff or debuff anchor point so they are not attached to each other. Forcing the debuffs to be attached to the main unitframe until fixed."] = "%s 프레임의 기준점 충돌로 인해 버프 혹은 디버프의 기준점이 변경되었습니다. 수정되기 전까지 주 유닛프레임에 종속됩니다."
 L['2D'] = true;
 L['3D'] = true;
@@ -791,6 +790,7 @@ L["Orientation"] = "방향"
 L["Overlay the healthbar"] = "프레임 내부에 표시"
 L["Overlay"] = "오버레이"
 L["Override any custom visibility setting in certain situations, EX: Only show groups 1 and 2 inside a 10 man instance."] = [=[상황에 따라 표시를 제한합니다.
+ex: 10인 공격대에서는 1파티와 2파티만 표시됩니다.]=]
 L["Party Frames"] = "파티 프레임"
 L["Party Pets"] = "파티원 소환수"
 L["Party Targets"] = "파티원의 대상"
