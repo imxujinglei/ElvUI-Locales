@@ -85,6 +85,7 @@ L[ [=[This works like a macro, you can run different situations to get the actio
  Example: '[combat] show;hide']=] ] = "Das funktioniert wie ein Makro, du kannst verschiedene Situationen haben um die Aktionsleiste zu ändern.\\n Beispiel: '[combat] 2;'"
 
 --Bags
+L['Already Running..'] = true;
 L["Ascending"] = "Aufsteigend"
 L["Bag Columns"] = "Taschen Spalten"
 L["Bag-Bar"] = "Taschen-Leiste"
@@ -94,6 +95,7 @@ L["Bank Columns"] = "Bank Spalten"
 L["Bar Direction"] = "Taschen Richtung"
 L["Bottom to Top"] = "Unten nach Oben"
 L["Click to search.."] = "Klicken, um zu suchen..."
+L['Confused.. Try Again!'] = true;
 L["copperabbrev"] = "|cffeda55fc|r" --Also used in gold datatext
 L["Delete Grays"] = "Graue löschen"
 L["Deleted %d gray items. Total Worth: %s"] = "Gelöschte %d Graue Gegenstände. Gesamtwert: %s"
@@ -112,20 +114,23 @@ L["Set the size of your bag buttons."] = "Setze die Größe der Taschen Tasten."
 L["silverabbrev"] = "|cffc7c7cfs|r" --Also used in gold datatext
 L["Sort Bags"] = "Taschen Sortieren"
 L["Sort Direction"] = "Sortier Ausrichtung"; --Also used in Buffs and Debuffs
+L['Sort Inverted'] = true;
 L["Sort Orientation"] = "Sortier Richtung"
 L["Sort Special"] = "Sortiere Spezial"
+L['Stack Bags to Bank'] = true;
+L['Stack Bank to Bags'] = true;
 L["Stack Items"] = "Staple Items"
 L["Stack Special"] = "Staple Spezial"
 L["The direction that the bag frames be (Horizontal or Vertical)."] = "Die Richtung die die Taschen Fenster haben(Horizontal oder Vertikal)."
 L["The direction that the bag frames will grow from the anchor."] = "Die Richtung die die Taschen Fenster vom Ankerpunkt aus wachsen(Horizontal oder Vertikal)."
 L["The frame is not shown unless you mouse over the frame."] = "Das Frame ist nicht sichtbar ausßer man zieht mit der Maus darüber."
 L["The spacing between buttons."] = "Der Abstand zwischen den Tasten."
-L["Toggle Bags"] = "Taschen Umschalten"
 L["Top to Bottom"] = "Oben nach Unten"
 L["Vendor Grays"] = "Graue Gegenstände verkaufen"
 L["Vendored gray items for:"] = "Graue Gegenstände verkauft für: "
 L["X Offset"] = "X Versatz"
 L["Y Offset"] = "Y Versatz" --Another variation in unitframes yOffset
+L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = "Du musst bei einen Händler sein."
 
 --Buffs and Debuffs
@@ -835,6 +840,7 @@ L["Spaced"] = "Abgetrennt"
 L["Spark"] = "Funken"
 L['Spec Icon'] = 'Talentspezialisierungs Symbol'
 L["Spell not found in list."] = "Zauber in der Liste nicht gefunden."
+L['Spells'] = true;
 L["StatusBar Texture"] = "Statusleisten Texture"
 L['Style'] = 'Stil'
 L["Tank Frames"] = "Tank Fenster"
@@ -855,6 +861,7 @@ L['The name you have selected is already in use by another element.'] = 'Den Nam
 L['The object you want to attach to.'] = "Das Objekt, das Sie anhängen wollen"
 L['The point of which you are anchoring to in relation to the attach to object.'] = 'Der Punkt den du verankern willst wiederspricht sich mit dem anheftenten Objekt.'
 L['The spell "%s" has been added to the Blacklist unitframe aura filter.'] = 'Der Zauber "%s" wurde zur Schwarzen-Liste der Einheitenfenster hinzugefügt.'
+L['This filter is used for both aura bars and aura icons no matter what. Its purpose is to block out specific spellids from being shown. For example a paladin can have two sacred shield buffs at once, we block out the short one.'] = true;
 L["Ticks"] = "Ticks"
 L["Toggles health text display"] = "Aktiviere den Gesundheitstext"
 L["UnitFrames"] = "Einheitenfenster"

@@ -84,6 +84,7 @@ L[ [=[This works like a macro, you can run different situations to get the actio
  Example: '[combat] show;hide']=] ] = true;
 
 --Bags
+L['Already Running..'] = true;
 L["Ascending"] = true;
 L["Bag Columns"] = true;
 L["Bag-Bar"] = true;
@@ -93,6 +94,7 @@ L["Bank Columns"] = true;
 L["Bar Direction"] = true;
 L["Bottom to Top"] = true;
 L["Click to search.."] = true;
+L['Confused.. Try Again!'] = true;
 L["copperabbrev"] = "|cffeda55fc|r" --Also used in gold datatext
 L["Delete Grays"] = true;
 L["Deleted %d gray items. Total Worth: %s"] = true;
@@ -111,20 +113,23 @@ L["Set the size of your bag buttons."] = true;
 L["silverabbrev"] = "|cffc7c7cfs|r" --Also used in gold datatext
 L["Sort Bags"] = true;
 L["Sort Direction"] = true; --Also used in Buffs and Debuffs
+L['Sort Inverted'] = true;
 L["Sort Orientation"] = true;
 L["Sort Special"] = true;
+L['Stack Bags to Bank'] = true;
+L['Stack Bank to Bags'] = true;
 L["Stack Items"] = true;
 L["Stack Special"] = true;
 L["The direction that the bag frames be (Horizontal or Vertical)."] = true;
 L["The direction that the bag frames will grow from the anchor."] = true;
 L["The frame is not shown unless you mouse over the frame."] = true;
 L["The spacing between buttons."] = true;
-L["Toggle Bags"] = true;
 L["Top to Bottom"] = true;
 L["Vendor Grays"] = true;
 L["Vendored gray items for:"] = true;
 L["X Offset"] = true;
 L["Y Offset"] = true;  --Another variation in unitframes yOffset
+L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = true;
 
 --Buffs and Debuffs
@@ -825,6 +830,7 @@ L["Spaced"] = true;
 L["Spark"] = true;
 L['Spec Icon'] = true;
 L["Spell not found in list."] = true;
+L['Spells'] = true;
 L["StatusBar Texture"] = true;
 L['Style'] = true;
 L["Tank Frames"] = true;
@@ -845,6 +851,7 @@ L['The name you have selected is already in use by another element.'] = true;
 L['The object you want to attach to.'] = true;
 L['The point of which you are anchoring to in relation to the attach to object.'] = true;
 L['The spell "%s" has been added to the Blacklist unitframe aura filter.'] = true;
+L['This filter is used for both aura bars and aura icons no matter what. Its purpose is to block out specific spellids from being shown. For example a paladin can have two sacred shield buffs at once, we block out the short one.'] = true;
 L["Ticks"] = true;
 L["Toggles health text display"] = true;
 L["UnitFrames"] = true;

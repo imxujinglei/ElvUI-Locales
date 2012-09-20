@@ -86,6 +86,7 @@ L[ [=[This works like a macro, you can run different situations to get the actio
 예시: '[combat] show;hide']=]
 
 --Bags
+L['Already Running..'] = true;
 L["Ascending"] = true;
 L["Bag Columns"] = "가방 열"
 L["Bag-Bar"] = true;
@@ -95,6 +96,7 @@ L["Bank Columns"] = "은행 열"
 L["Bar Direction"] = true;
 L["Bottom to Top"] = "상단 아래쪽으로 이동"
 L["Click to search.."] = "클릭시 검색합니다..."
+L['Confused.. Try Again!'] = true;
 L["copperabbrev"] = "|cffeda55fc|r" --Also used in gold datatext
 L["Delete Grays"] = "회색템 삭제"
 L["Deleted %d gray items. Total Worth: %s"] = [=[%d개의 회색 아이템을 삭제했습니다. 환산: %s:]=]
@@ -113,20 +115,23 @@ L["Set the size of your bag buttons."] = true;
 L["silverabbrev"] = "|cffc7c7cfs|r" --Also used in gold datatext
 L["Sort Bags"] = "가방 정렬"
 L["Sort Direction"] = true; --Also used in Buffs and Debuffs
+L['Sort Inverted'] = true;
 L["Sort Orientation"] = "가방 정렬"
 L["Sort Special"] = "특수물품 정리"
+L['Stack Bags to Bank'] = true;
+L['Stack Bank to Bags'] = true;
 L["Stack Items"] = "묶음 항목"
 L["Stack Special"] = "특수묶음 정리"
 L["The direction that the bag frames be (Horizontal or Vertical)."] = true;
 L["The direction that the bag frames will grow from the anchor."] = true;
 L["The frame is not shown unless you mouse over the frame."] = "마우스오버를 하지 않는 이상 보이지 않는 프레임입니다."
 L["The spacing between buttons."] = "버튼 사이의 간격을 설정합니다."
-L["Toggle Bags"] = "가방 전환"
 L["Top to Bottom"] = "위에서 아래로"
 L["Vendor Grays"] = "회색 아이템을 판매합니다."
 L["Vendored gray items for:"] = "회색 항목 판매:"
 L["X Offset"] = "X 축 기준 좌표"
 L["Y Offset"] = "Y 축 기준 좌표" --Another variation in unitframes yOffset
+L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = "당신은 상인을 만나야 합니다."
 
 --Buffs and Debuffs
@@ -652,6 +657,7 @@ L['You can toggle the microbar by using your middle mouse button on the minimap 
 L['You can use the /resetui command to reset all of your movers. You can also use the command to reset a specific mover, /resetui <mover name>.\nExample: /resetui Player Frame'] = true;
 
 --UnitFrames
+ex) 10인 공격대에서는 1파티와 2파티만 표시됩니다.]=]
 L["%s frame(s) has a conflicting anchor point, please change either the buff or debuff anchor point so they are not attached to each other. Forcing the debuffs to be attached to the main unitframe until fixed."] = "%s 프레임의 기준점 충돌로 인해 버프 혹은 디버프의 기준점이 변경되었습니다. 수정되기 전까지 주 유닛프레임에 종속됩니다."
 L['2D'] = true;
 L['3D'] = true;
@@ -785,7 +791,6 @@ L["Orientation"] = "방향"
 L["Overlay the healthbar"] = "프레임 내부에 표시"
 L["Overlay"] = "오버레이"
 L["Override any custom visibility setting in certain situations, EX: Only show groups 1 and 2 inside a 10 man instance."] = [=[상황에 따라 표시를 제한합니다.
-ex) 10인 공격대에서는 1파티와 2파티만 표시됩니다.]=]
 L["Party Frames"] = "파티 프레임"
 L["Party Pets"] = "파티원 소환수"
 L["Party Targets"] = "파티원의 대상"
@@ -843,6 +848,7 @@ L["Spaced"] = "간격"
 L["Spark"] = "반짝임"
 L['Spec Icon'] = true;
 L["Spell not found in list."] = "목록에서 주문을 찾을 수 없습니다."
+L['Spells'] = true;
 L["StatusBar Texture"] = "상태 표시바 텍스쳐"
 L['Style'] = true;
 L["Tank Frames"] = "방어전담 프레임"
@@ -863,6 +869,7 @@ L['The name you have selected is already in use by another element.'] = true;
 L['The object you want to attach to.'] = true;
 L['The point of which you are anchoring to in relation to the attach to object.'] = true;
 L['The spell "%s" has been added to the Blacklist unitframe aura filter.'] = true;
+L['This filter is used for both aura bars and aura icons no matter what. Its purpose is to block out specific spellids from being shown. For example a paladin can have two sacred shield buffs at once, we block out the short one.'] = true;
 L["Ticks"] = "틱"
 L["Toggles health text display"] = "생명력 문자의 표시를 전환합니다."
 L["UnitFrames"] = "유닛프레임"

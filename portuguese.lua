@@ -86,6 +86,7 @@ Example: '[combat] show;hide']=] ] = [=[Isto funciona como uma macro, você pode
 Exemplo: '[combat] show;hide']=];
 
 --Bags
+L['Already Running..'] = true;
 L["Ascending"] = "Ascendente";
 L["Bag Columns"] = "Colunas das Bolsas";
 L["Bag-Bar"] = "Barra das Bolsas";
@@ -95,6 +96,7 @@ L["Bank Columns"] = "Colunas do Banco";
 L["Bar Direction"] = "Direção da Barra";
 L["Bottom to Top"] = "De baixo para cima";
 L["Click to search.."] = "Clique para procurar.."
+L['Confused.. Try Again!'] = true;
 L["copperabbrev"] = "|cffeda55fc|r" --Also used in gold datatext
 L["Delete Grays"] = "Destruir itens cinzentos"
 L["Deleted %d gray items. Total Worth: %s"] = "%d itens cinzentos destruidos. Valor total %s"
@@ -113,20 +115,23 @@ L["Set the size of your bag buttons."] = "Define o tamanho dos botões das Bolsa
 L["silverabbrev"] = "|cffc7c7cfs|r" --Also used in gold datatext
 L["Sort Bags"] = "Organizar Bolsas"
 L["Sort Direction"] = "Direção de organização"; --Also used in Buffs and Debuffs
+L['Sort Inverted'] = true;
 L["Sort Orientation"] = "Orientação de organização";
 L["Sort Special"] = "Organizar especial"
+L['Stack Bags to Bank'] = true;
+L['Stack Bank to Bags'] = true;
 L["Stack Items"] = "Empilhar itens";
 L["Stack Special"] = "Empilhar especial";
 L["The direction that the bag frames be (Horizontal or Vertical)."] = "Direcção em que os quadros das bolsas são (Horizontal ou Vertical).";
 L["The direction that the bag frames will grow from the anchor."] = "Direcção para qual as barras crescerão a partir do seu Fixador.";
 L["The frame is not shown unless you mouse over the frame."] = "A não ser que passe com o rato (mouse) por cima do quadro, este não será mostrado.";
 L["The spacing between buttons."] = "Espaçamento entre botões.";
-L["Toggle Bags"] = "Mostrar/Ocultar Sacos";
 L["Top to Bottom"] = "De cima para baixo";
 L["Vendor Grays"] = "Vender Itens Cinzentos"
 L["Vendored gray items for:"] = "Vendeu os itens cinzentos por:";
 L["X Offset"] = "Distância X"
 L["Y Offset"] = "Distância Y"; --Another variation in unitframes yOffset
+L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = "Tem de estar num vendedor.";
 
 --Buffs and Debuffs
@@ -836,6 +841,7 @@ L["Spaced"] = "Espaçado";
 L["Spark"] = "Faísca";
 L['Spec Icon'] = "Ícone de Especialização";
 L["Spell not found in list."] = "Feitiço não encontrado na lista.";
+L['Spells'] = true;
 L["StatusBar Texture"] = "Textura da barra de estado";
 L['Style'] = true;
 L["Tank Frames"] = "Painel de Tanques"
@@ -856,6 +862,7 @@ L['The name you have selected is already in use by another element.'] = "O nome 
 L['The object you want to attach to.'] = "O objeto ao qual você quer anexar.";
 L['The point of which you are anchoring to in relation to the attach to object.'] = "O ponto ao qual está a fixar em relação ao anexar objeto.";
 L['The spell "%s" has been added to the Blacklist unitframe aura filter.'] = 'O feitiço "%s" foi adicionado à Lista Negra dos filtros das auras de unidades.';
+L['This filter is used for both aura bars and aura icons no matter what. Its purpose is to block out specific spellids from being shown. For example a paladin can have two sacred shield buffs at once, we block out the short one.'] = true;
 L["Ticks"] = "Ticks";
 L["Toggles health text display"] = "Ativa a exibição do texto de vida";
 L["UnitFrames"] = "Quadro de Unidades";
