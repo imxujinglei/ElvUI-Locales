@@ -1,6 +1,10 @@
+
+
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0")
 local L = AceLocale:NewLocale("ElvUI", "esES") or AceLocale:NewLocale("ElvUI", "esMX")
 if not L then return end
+
+
 
 --TEMP
 L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Ha ocurrido un problema que no te permite cambiar tus talentos y glifos, esto puede suceder si has inspeccionado a alguien. Desgraciadamente no podemos hacer nada para arreglarlo, por favor recarga tu interfaz y vuelve a intentarlo."
@@ -146,7 +150,6 @@ L['No Sorting'] = "No Ordenar";
 L['Only show consolidated icons on the consolidated bar that your class/spec is interested in. This is useful for raid leading.'] = "Mostrar en la barra de consolidados únicamente los beneficios que interesan a tu clase/especialización. Desactivar esto puede ser útil para un líder de banda.";
 L["Other's First"] = "Los de Otros Primero";
 L['Remaining Time'] = "Tiempo Restante";
-L['Style'] = "Estilo";
 L['Seperate'] = "Separar";
 L['Set the size of the individual auras.'] = "Establece el tamaño de las auras individuales.";
 L['Sort Method'] = "Método de Organización";
