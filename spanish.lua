@@ -1,4 +1,3 @@
-
 local AceLocale = LibStub:GetLibrary("AceLocale-3.0")
 local L = AceLocale:NewLocale("ElvUI", "esES") or AceLocale:NewLocale("ElvUI", "esMX")
 if not L then return end
@@ -636,7 +635,7 @@ L["Hide tooltip while in combat."] = "Oculta la descripción emergente mientras 
 L['Never Hide'] = "Nunca Ocultar";
 L['Player Titles'] = "Títulos de Jugador";
 L["Set the type of anchor mode the tooltip should use."] = "Establece el tipo de fijación que debería usar la descripción emergente.";
-L["Smart"] = "Pequeño";
+L["Smart"] = "Inteligente";
 L['Talent Spec'] = "Especialización de Talentos";
 L["Targeted By:"] = "Objetivo De:";
 L["Tooltip"] = "Descripción Emergente";
@@ -850,8 +849,8 @@ L["Show Solo"] = "Mostrar Solo";
 L["Size of the indicator icon."] = "Tamaño del icono indicador.";
 L['Size Override'] = "Sobrescribir Tamaño";
 L["Size"] = "Tamaño";
-L['Smart Auras'] = "Auras Pequeñas";
-L["Smart Raid Filter"] = "Filtro de Banda Pequeño";
+L['Smart Auras'] = "Auras Inteligentes";
+L["Smart Raid Filter"] = "Filtro de Banda Inteligente";
 L["Smooth Bars"] = "Barras Suavizadas";
 L["Spaced"] = "Separadas";
 L["Spark"] = "Desatar";
