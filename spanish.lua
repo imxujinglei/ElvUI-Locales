@@ -149,7 +149,7 @@ L["Top to Bottom"] = "De Arriba hacia Abajo";
 L["Vendor Grays"] = "Vender Objetos Grises"
 L["Vendored gray items for:"] = "Objetos grises vendidos por:"
 L["X Offset"] = "Desfase X"
-L["Y Offset"] = "Desfase Y"  --Another variation in unitframes yOffset
+L["Y Offset"] = "Desfase Y"
 L['You must be at a bank.'] = "Debes estar cerca de un banco.";
 L["You must be at a vendor."] = "Debes estar cerca de un vendedor."
 

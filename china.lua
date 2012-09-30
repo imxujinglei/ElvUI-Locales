@@ -147,7 +147,7 @@ L["Top to Bottom"] = true;
 L["Vendor Grays"] = "出售灰色物品"
 L["Vendored gray items for:"] = "已出售灰色物品:"
 L["X Offset"] = "X轴偏移"
-L["Y Offset"] = "Y轴偏移"  --Another variation in unitframes yOffset
+L["Y Offset"] = "Y轴偏移"
 L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = "你必需以商人为目标."
 

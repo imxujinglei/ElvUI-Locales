@@ -146,7 +146,7 @@ L["Top to Bottom"] = "Oben nach Unten"
 L["Vendor Grays"] = "Graue Gegenstände verkaufen"
 L["Vendored gray items for:"] = "Graue Gegenstände verkauft für: "
 L["X Offset"] = "X Versatz"
-L["Y Offset"] = "Y Versatz" --Another variation in unitframes yOffset
+L["Y Offset"] = "Y Versatz"
 L['You must be at a bank.'] = 'Du musst bei einer Bank sein.'
 L["You must be at a vendor."] = "Du musst bei einen Händler sein."
 

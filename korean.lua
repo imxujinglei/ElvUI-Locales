@@ -147,7 +147,7 @@ L["Top to Bottom"] = "위에서 아래로"
 L["Vendor Grays"] = "회색 아이템을 판매합니다."
 L["Vendored gray items for:"] = "회색 항목 판매:"
 L["X Offset"] = "X 축 기준 좌표"
-L["Y Offset"] = "Y 축 기준 좌표" --Another variation in unitframes yOffset
+L["Y Offset"] = "Y 축 기준 좌표"
 L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = "당신은 상인을 만나야 합니다."
 

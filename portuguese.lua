@@ -147,7 +147,7 @@ L["Top to Bottom"] = "De cima para baixo";
 L["Vendor Grays"] = "Vender Itens Cinzentos"
 L["Vendored gray items for:"] = "Vendeu os itens cinzentos por:";
 L["X Offset"] = "Distância X"
-L["Y Offset"] = "Distância Y"; --Another variation in unitframes yOffset
+L["Y Offset"] = "Distância Y";
 L['You must be at a bank.'] = "Tem de estar no banco.";
 L["You must be at a vendor."] = "Tem de estar num vendedor.";
 

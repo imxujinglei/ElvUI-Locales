@@ -145,7 +145,7 @@ L["Top to Bottom"] = true;
 L["Vendor Grays"] = true;
 L["Vendored gray items for:"] = true;
 L["X Offset"] = true;
-L["Y Offset"] = true;  --Another variation in unitframes yOffset
+L["Y Offset"] = true;
 L['You must be at a bank.'] = true;
 L["You must be at a vendor."] = true;
 
