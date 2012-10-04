@@ -836,6 +836,7 @@ L["Power"] = "Poder";
 L["Powers"] = "Poderes";
 L["Priority"] = "Prioridad";
 L['PVP Trinket'] = "Abalorio JcJ";
+L['Raid Icon'] = true;
 L['Raid-10 Frames'] = "Marco de Banda-10";
 L['Raid-25 Frames'] = "Marco de Banda-25";
 L['Raid-40 Frames'] = "Marco de Banda-40";

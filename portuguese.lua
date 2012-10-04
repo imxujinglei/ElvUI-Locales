@@ -834,6 +834,7 @@ L["Power"] = "Poder";
 L["Powers"] = "Poderes";
 L["Priority"] = "prioridade";
 L['PVP Trinket'] = "Berloque de JXJ";
+L['Raid Icon'] = true;
 L['Raid-10 Frames'] = "Quadros de Raide-10";
 L['Raid-25 Frames'] = "Quadros de Raide-25";
 L['Raid-40 Frames'] = "Quadros de Raide-40";

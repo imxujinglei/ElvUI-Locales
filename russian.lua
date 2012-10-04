@@ -834,6 +834,7 @@ L["Power"] = "Ресурс"
 L["Powers"] = "Ресурсы"
 L["Priority"] = "Приоритет"
 L['PVP Trinket'] = "ПвП Аксессуар"
+L['Raid Icon'] = true;
 L['Raid-10 Frames'] = "Рейд 10"
 L['Raid-25 Frames'] = "Рейд 25"
 L['Raid-40 Frames'] = "Рейд 40"
