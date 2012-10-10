@@ -538,6 +538,7 @@ L["Hide"] = "隐藏"
 L["Holy"] = "神圣"
 L['Low Health Threshold'] = true;
 L['Low Health Warning'] = true;
+L['Mistweaver'] = true;
 L["NamePlates"] = "血条"
 L["NAMEPLATE_DESC"] = "修改血条设定."
 L["Personal Debuffs"] = "个人Debuff"

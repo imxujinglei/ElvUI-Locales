@@ -542,6 +542,7 @@ L["Hide"] = "숨기기"
 L["Holy"] = "신성"
 L['Low Health Threshold'] = true;
 L['Low Health Warning'] = true;
+L['Mistweaver'] = true;
 L["NamePlates"] = "이름표"
 L["NAMEPLATE_DESC"] = "이름표의 설정을 수정합니다."
 L["Personal Debuffs"] = "개인 디버프"

@@ -537,6 +537,7 @@ L["Hide"] = "Verstecken" --Also used in DataTexts
 L["Holy"] = "Heilig"
 L['Low Health Threshold'] = 'Niedrige Lebens Bedrohung'
 L['Low Health Warning'] = 'Niedrige Lebens Warnung'
+L['Mistweaver'] = true;
 L["NamePlates"] = "Namensplaketten"
 L["NAMEPLATE_DESC"] = "Ändere die einstellungen für die Namenplaketten."
 L["Personal Debuffs"] = "Eigene Schwächungszauber"

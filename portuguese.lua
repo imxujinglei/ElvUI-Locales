@@ -538,6 +538,7 @@ L["Hide"] = "Esconder"; --Also used in DataTexts
 L["Holy"] = "Sagrado";
 L['Low Health Threshold'] = "Limiar de Vida Baixa";
 L['Low Health Warning'] = "Aviso de Vida Baixa";
+L['Mistweaver'] = true;
 L["NamePlates"] = "Placas de Identificação";
 L["NAMEPLATE_DESC"] = "Modificar as definições das Placas de Identificação.";
 L["Personal Debuffs"] = "Penalidades Pessoais";

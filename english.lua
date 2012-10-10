@@ -534,6 +534,7 @@ L["Hide"] = true; --Also used in DataTexts
 L["Holy"] = true;
 L['Low Health Threshold'] = true;
 L['Low Health Warning'] = true;
+L['Mistweaver'] = true;
 L["NamePlates"] = true;
 L["NAMEPLATE_DESC"] = "Modify the nameplate settings."
 L["Personal Debuffs"] = true;
