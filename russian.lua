@@ -538,6 +538,7 @@ L["Hide"] = "Скрыть" --Also used in DataTexts
 L["Holy"] = "Свет"
 L['Low Health Threshold'] = "Пороговое значение здоровья"
 L['Low Health Warning'] = "Предупреждение о низком здоровье"
+L['Mistweaver'] = "Ткач туманов"
 L["NamePlates"] = "Индикаторы здоровья"
 L["NAMEPLATE_DESC"] = "Настройки индикаторов здоровья."
 L["Personal Debuffs"] = "Личные дебаффы"
