@@ -435,6 +435,7 @@ L["Chat Bubbles"] = "말풍선 대화"
 L["Controls what the transparency of the worldmap will be set to when you are moving."] = "캐릭터 이동시 전체지도의 투명 상태를 설정합니다."
 L["Disband Group"] = "그룹 해체"
 L['Display a panel across the bottom of the screen. This is for cosmetic only.'] = true;
+L['Display a panel across the top of the screen. This is for cosmetic only.'] = true;
 L['Display emotion icons in chat.'] = true;
 L["Don't scale the large world map to block out sides of the screen."] = true;
 L["ELVUI_DESC"] = "ElvUI는 WoW의 애드온을 대신하는 완전한 애드온입니다."
@@ -459,6 +460,7 @@ L["Skin the blizzard chat bubbles."] = "말풍선 스킨  있습니다."
 L["The font that appears on the text above players heads. |cffFF0000WARNING: This requires a game restart or re-log for this change to take effect.|r"] = true;
 L["Tiny Map"] = true;
 L['Toggle Tutorials'] = true;
+L['Top Panel'] = true;
 L["Welcome to ElvUI version %s!"] = "ElvUI 버전 %s에 오신 것을 환영합니다!"
 
 --Media

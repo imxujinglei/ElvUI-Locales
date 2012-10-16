@@ -436,6 +436,7 @@ L["Chat Bubbles"] = "Burbujas de Chat";
 L["Controls what the transparency of the worldmap will be set to when you are moving."] = "Controla la transparencia del mapa mundial cuando te mueves."
 L["Disband Group"] = "Disolver Grupo"
 L['Display a panel across the bottom of the screen. This is for cosmetic only.'] = true;
+L['Display a panel across the top of the screen. This is for cosmetic only.'] = true;
 L['Display emotion icons in chat.'] = "Muestra emoticonos en el chat.";
 L["Don't scale the large world map to block out sides of the screen."] = "No escalar el mapa mundial grande hasta los bordes de la pantalla.";
 L["ELVUI_DESC"] = "ElvUI es un addon que reemplaza la interfaz completa de World of Warcraft."
@@ -460,6 +461,7 @@ L["Skin the blizzard chat bubbles."] = "Modificar la apariencia de las Burbujas 
 L["The font that appears on the text above players heads. |cffFF0000WARNING: This requires a game restart or re-log for this change to take effect.|r"] = "Cambia la fuente del texto que aparece encima de las cabezas de los jugadores. |cffFF0000AVISO: Esto requiere que reinicies el juego o reconectes.";
 L["Tiny Map"] = "Mapa Pequeño";
 L['Toggle Tutorials'] = "Mostrar/Ocultar Tutoriales";
+L['Top Panel'] = true;
 L["Welcome to ElvUI version %s!"] = "Bienvenido(a) a ElvUI versión %s!"
 
 --Media

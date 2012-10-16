@@ -434,6 +434,7 @@ L["Chat Bubbles"] = "Bulle de Chat"
 L["Controls what the transparency of the worldmap will be set to when you are moving."] = "Contrôle le niveau de transparence de la carte du monde lorsque vous bougez."
 L["Disband Group"] = "Dissoudre le groupe"
 L['Display a panel across the bottom of the screen. This is for cosmetic only.'] = true;
+L['Display a panel across the top of the screen. This is for cosmetic only.'] = true;
 L['Display emotion icons in chat.'] = "Afficher les émoticônes dans le Chat"
 L["Don't scale the large world map to block out sides of the screen."] = "Ne pas mettre à l'échelle la grande carte du monde pour bloquer les bords de l'écran.";
 L["ELVUI_DESC"] = "ElvUI est une interface de remplacement complète pour World of Warcraft"
@@ -458,6 +459,7 @@ L["Skin the blizzard chat bubbles."] = "Habillage des bulles de Chat."
 L["The font that appears on the text above players heads. |cffFF0000WARNING: This requires a game restart or re-log for this change to take effect.|r"] = "Police qui apparait sur le texte au dessus de la tête des joueurs. |cffFF0000ATTENTION: requiert un redemarrage du jeu ou une reconnexion pour que les changements soient pris en compte.|r"
 L["Tiny Map"] = "Petite Carte";
 L['Toggle Tutorials'] = "Afficher les tutoriels"
+L['Top Panel'] = true;
 L["Welcome to ElvUI version %s!"] = "Bienvenue sur la version %s d'ElvUI !"
 
 --Media

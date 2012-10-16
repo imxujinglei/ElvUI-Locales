@@ -434,6 +434,7 @@ L["Chat Bubbles"] = true;
 L["Controls what the transparency of the worldmap will be set to when you are moving."] = "进行移动时，世界地图的透明度显示。"
 L["Disband oup"] = "解散队伍"
 L['Display a panel across the bottom of the screen. This is for cosmetic only.'] = true;
+L['Display a panel across the top of the screen. This is for cosmetic only.'] = true;
 L['Display emotion icons in chat.'] = true;
 L["Don't scale the large world map to block out sides of the screen."] = true;
 L["ELVUI_DESC"] = "ElvUI 为一套功能完整，可用来替换 WOW 原始介面的套件"
@@ -458,6 +459,7 @@ L["Skin the blizzard chat bubbles."] = true;
 L["The font that appears on the text above players heads. |cffFF0000WARNING: This requires a game restart or re-log for this change to take effect.|r"] = true;
 L["Tiny Map"] = true;
 L['Toggle Tutorials'] = true;
+L['Top Panel'] = true;
 L["Welcome to ElvUI version %s!"] = "欢迎使用 ElvUI 版本 %s!"
 
 --Media
