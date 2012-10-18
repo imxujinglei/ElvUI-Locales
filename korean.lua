@@ -803,7 +803,6 @@ L["Health By Value"] = "값에 따른 생명력"
 L["Health Text"] = "생명력 문자"
 L["Health"] = "생명력"
 L["Height"] = "높이"
-L['Hold shift + right click to blacklist this aura.'] = true;
 L['Holy Power'] = true;
 L["Horizontal"] = "가로" --Also used in bags module
 L["How far away the portrait is from the camera."] = "카메라의 거리에 따라 초상화가 변화합니다."

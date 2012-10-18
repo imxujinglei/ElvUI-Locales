@@ -797,7 +797,6 @@ L["Health By Value"] = "生命条颜色依数值变化"
 L["Health Text"] = "生命值"
 L["Health"] = "生命条"
 L["Height"] = "高"
-L['Hold shift + right click to blacklist this aura.'] = true;
 L['Holy Power'] = true;
 L["Horizontal"] = "水平" --Also used in bags module
 L["How far away the portrait is from the camera."] = "人像和镜头间有多远"

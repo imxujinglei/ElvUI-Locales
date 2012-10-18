@@ -798,7 +798,6 @@ L["Health By Value"] = "依生命值變更顏色";
 L["Health Text"] = "生命值文字";
 L["Health"] = "生命值";
 L["Height"] = "高";
-L['Hold shift + right click to blacklist this aura.'] = true;
 L['Holy Power'] = true;
 L["Horizontal"] = "水平增減"; --Also used in bags module
 L["How far away the portrait is from the camera."] = "頭像與鏡頭間的距離。";

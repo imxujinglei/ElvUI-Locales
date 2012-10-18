@@ -797,7 +797,6 @@ L["Health By Value"] = "Vie par valeur"
 L["Health Text"] = "Afficher la vie"
 L["Health"] = "Vie"
 L["Height"] = "Hauteur"
-L['Hold shift + right click to blacklist this aura.'] = "Maintenir MAJ + clic droit pour mettre en liste noire cette aura."
 L['Holy Power'] = "Puissance sacrée";
 L["Horizontal"] = "Horizontale" --Also used in bags module
 L["How far away the portrait is from the camera."] = "Configure la distance de la caméra par rapport au portrait."
