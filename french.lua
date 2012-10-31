@@ -177,12 +177,15 @@ L['Wrap After'] = "Retour à la ligne après"
 L['Your Auras First'] = "Vos Auras en premier"
 
 --Chat
+L['Above Chat'] = true;
 L["AFK"] = "ABS" --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "Tentative pour créer un lien URL dans les fenêtres de discussion."
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = true;
+L['Below Chat'] = true;
 L["BG"] = "BG"
 L["BGL"] = "BGL"
 L["BN:"] = "BN:"
+L['Chat EditBox Position'] = true;
 L['Chat History'] = "historique de la discussion";
 L["Chat"] = "Discussion"
 L["CHAT_DESC"] = "Ajuste les paramètres du Chat pour ElvUI."
@@ -214,6 +217,7 @@ L["Panel Width"] = "Largeur fenêtre de Discussion"
 L["PANEL_DESC"] = "Ajuste la largeur et la hauteur des fenêtres de chat, cela ajuste aussi les sacs."
 L["PG"] = "PG"
 L["PL"] = "CdG"
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "Empêche l'affichage du même message plus d'une fois dans la fenêtre de discussion durant un laps de temps.Définir sur 0 pour désactiver."
 L["R"] = "R"
 L["Right Only"] = "Droite seulement"
@@ -416,7 +420,7 @@ L["Wrist"] = "Poignets"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s: %s a essayé d'appeler la fonction protégée '%s'."
-L["INCOMPATIBLE_ADDON"] = "L'addon %s est incompatible avec le module %s d'ElvUI. Désactivez l'add-on ou le module incompatible."
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = "Aucunes données à vider";
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = "|cFFE30000Erreur Lua reçue. Vous pouvez voir ce message d'erreur quand vous sortez de combat."
 

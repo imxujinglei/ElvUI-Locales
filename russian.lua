@@ -177,12 +177,15 @@ L['Wrap After'] = "Размер ряда"
 L['Your Auras First'] = "Сначала свои"
 
 --Chat
+L['Above Chat'] = true;
 L["AFK"] = "АФК" --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "Пытаться создавать интернет-ссылки в чате."
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = "Закрепляет позиции левого и правого чата к соответственным панелям. Отключение этой опции позволит перемещать чат независимо от них."
+L['Below Chat'] = true;
 L["BG"] = "ПБ"
 L["BGL"] = "Лидер ПБ"
 L["BN:"] = "BN:"
+L['Chat EditBox Position'] = true;
 L['Chat History'] = "История чата"
 L["Chat"] = "Чат"
 L["CHAT_DESC"] = "Настройте отображение чата ElvUI."
@@ -214,6 +217,7 @@ L['Panel Width'] = "Ширина панели"
 L["PANEL_DESC"] = "Регулирование размеров левой и правой панелей. Это окажет эффект на чат и сумки."
 L["PG"] = "Гр"
 L["PL"] = "Лидер гр."
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "Предотвращает появление одинаковых сообщения в чате чаще указанного количества секунд. Установите на нуль для отключения."
 L["R"] = "Р"
 L['Right Only'] = "Только правый"
@@ -416,7 +420,7 @@ L["Wrist"] = "Запястья"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s: %s tried to call the protected function '%s'." --No need to translate due to our code sharing tool will make it unreadable
-L["INCOMPATIBLE_ADDON"] = "Аддон %s не совместим с модулем %s ElvUI. Пожалуйста, отключите не совместимый аддон или модуль."
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = "No locals to dump" --No need to translate due to our code sharing tool will make it unreadable
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = "|cFFE30000Обнаружена ошибка lua. Вы получите отчет о ней после завершения боя."
 

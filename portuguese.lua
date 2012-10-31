@@ -177,12 +177,15 @@ L['Wrap After'] = "Enrolar depois";
 L['Your Auras First'] = "Suas auras primeiro";
 
 --Chat
+L['Above Chat'] = true;
 L["AFK"] = "LDT"; --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "Tentar criar links URL dentro do bate-papo.";
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = "Tentar bloquear a posição dos painéis do bate-papo esquerdo e direito. Desativar esta opção permitirá mover os painéis de bate-papo para qualquer lugar que desejar.";
+L['Below Chat'] = true;
 L["BG"] = "CB";
 L["BGL"] = "LCB";
 L["BN:"] = "BN:";
+L['Chat EditBox Position'] = true;
 L['Chat History'] = "Histórico do bate-papo";
 L["Chat"] = "Bate-papo";
 L["CHAT_DESC"] = "Adjustar definições do bate-papo para o ElvUI.";
@@ -214,6 +217,7 @@ L['Panel Width'] = "Comprimento do Painel";
 L['PANEL_DESC'] = "Ajustar o tamanho dos painéis da esquerda e direita, isto irá afetar suas bolsas e bate-papo.";
 L["PG"] = "PG";
 L["PL"] = "PL";
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "Prevenir que as mesmas mensagens sejam exibidas no bate-papo mais que uma vez dentro desta quantidade de segundos, definir 0 para desativar.";
 L["R"] = "R";
 L['Right Only'] = "Somente Direita";
@@ -416,7 +420,7 @@ L["Wrist"] = "Pulsos"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s: %s tentou chamar a função protegida '%s'.";
-L["INCOMPATIBLE_ADDON"] = "O addon %s não é compatível com o módulo %s da ElvUI. Por favor desative o addon ou módulo incompatível."
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = "Sem locais para despejar";
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = "|cFFE30000Erro Lua recebido. Pode ver a mensagem de erro quando sair de combate";
 

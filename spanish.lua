@@ -179,12 +179,15 @@ L['Wrap After'] = "Auras por Fila/Columna";
 L['Your Auras First'] = "Tus Auras Primero";
 
 --Chat
+L['Above Chat'] = true;
 L["AFK"] = "Ausente" --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "Trata de crear enlaces URL dentro del chat."
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = "Intente retener las posisiones de los marcos en la ventana de el chat. Estos están localizados en la parte derecha e izquierda de su ventana. Si desea, ústed puede desactivar esta opción para tener completa mobilidad de la ventana de el chat. Esto le dará la oportunidad de localizarla donde ústed desée.";
+L['Below Chat'] = true;
 L["BG"] = "CB"
 L["BGL"] = "LCB"
 L["BN:"] = "BN:"
+L['Chat EditBox Position'] = true;
 L['Chat History'] = "Historial de Chat";
 L["Chat"] = "Chat"
 L["CHAT_DESC"] = "Configura los ajustes del chat para ElvUI."
@@ -216,6 +219,7 @@ L['Panel Width'] = "Anchura del Panel"
 L['PANEL_DESC'] = "Ajusta el tamaño de los paneles izquierdo y derecho. Esto afectará las ventanas de chat y las bolsas."
 L["PG"] = "GG"
 L["PL"] = "LG"
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "Previene que los mismos mensajes se muestren más de una vez en el chat dentro de un cierto número de segundos. Establécelo a cero para desactivar."
 L["R"] = "B"
 L['Right Only'] = "Sólo el Derecho"
@@ -418,7 +422,7 @@ L["Wrist"] = "Muñeca"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s: %s intentó llamar a la función protegida '%s'.";
-L["INCOMPATIBLE_ADDON"] = "El addon %s no es compatible con el módulo %s de ElvUI. Por favor deshabilita el addon o módulo incompatibles."
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = "No hay locales para volcar";
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = "|cFFE30000Error de Lua recibido. Podrás ver el error cuando salgas de combate.";
 

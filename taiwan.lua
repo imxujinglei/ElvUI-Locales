@@ -178,12 +178,15 @@ L['Wrap After'] = true;
 L['Your Auras First'] = true;
 
 --Chat 對話視窗框架
+L['Above Chat'] = true;
 L["AFK"] = "離開"; --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "對話視窗中若出現網址，建立連結。";
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = true;
+L['Below Chat'] = true;
 L["BG"] = "戰場";
 L["BGL"] = "戰場隊長";
 L["BN:"] = "戰網：";
+L['Chat EditBox Position'] = true;
 L['Chat History'] = true;
 L["Chat"] = "聊天";
 L["CHAT_DESC"] = '聊天框架設定';
@@ -215,6 +218,7 @@ L["Panel Width"] = "對話框寬度";
 L["PANEL_DESC"] = '調整左、右對話框的大小，此設定將會影響對話與背包框架的大小。';
 L["PG"] = "隊員";
 L["PL"] = "隊長";
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "設定秒數，在此設定秒數內，相同的訊息僅會在對話視窗中顯示一次，設為 0 即可停用此功能。";
 L["R"] = "團隊";
 L["Right Only"] = "僅顯示右框背景";
@@ -417,7 +421,7 @@ L["Wrist"] = "腕";
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s：%s 已嘗試呼叫受保護的「%s」功能。";
-L["INCOMPATIBLE_ADDON"] = "插件 %s 不相容於 ElvUI 的 %s 模組。請停用不相容的插件，或停用模組。";
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = "無可供傾印的本機資料";
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = "|cFFE30000收到 LUA 錯誤報告，你可以在脫離戰鬥時檢視錯誤訊息。";
 

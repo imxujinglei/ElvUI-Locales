@@ -176,12 +176,15 @@ L['Wrap After'] = 'Hülle danach'
 L['Your Auras First'] = 'Deine Auren zuerst'
 
 --Chat
+L['Above Chat'] = true;
 L["AFK"] = "AFK"; --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "Versuch um Internet Links im Chat einzurichten."
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = true;
+L['Below Chat'] = true;
 L["BG"] = "BG"
 L["BGL"] = "BGL"
 L["BN:"] = "BN:"
+L['Chat EditBox Position'] = true;
 L['Chat History'] = 'Chat Verlauf'
 L["Chat"] = "Chat"
 L["CHAT_DESC"] = "Anpassen der Chateinstellungen für ElvUI."
@@ -213,6 +216,7 @@ L["Panel Width"] = "Leisten Breite"
 L["PANEL_DESC"] = "Stelle die Größe deiner linken und rechten Leisten ein, dies hat auch einfluss auf den Chat und die Taschen."
 L["PG"] = "PG"
 L["PL"] = "PL"
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "Verhindern Sie das die gleichen Nachrichten von der Anzeige im Chat mehr als einmal innerhalb dieser festgelegten Anzahl von Sekunden angezeigt wird, auf Null setzen zum deaktivieren."
 L["R"] = "R"
 L["Right Only"] = "Nur Rechts"
@@ -415,7 +419,7 @@ L["Wrist"] = "Handgelenke"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s: %s versucht die geschützte Funktion aufrufen '%s'."
-L["INCOMPATIBLE_ADDON"] = "Das Addon %s ist nicht kompatibel mit ElvUI's %s. Bitte deaktivere das nicht kompatible Addon oder Modul."
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = "Keine Lokalisierung zum verwerfen"
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = '|cFFE30000Lua Fehler erhalten. Du kannst die Fehlermeldung ansehn wenn du den Kampf verlässt.'
 

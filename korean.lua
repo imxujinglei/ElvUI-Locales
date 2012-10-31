@@ -177,12 +177,15 @@ L['Wrap After'] = true;
 L['Your Auras First'] = true;
 
 --Chat
+L['Above Chat'] = true;
 L["AFK"] = "자리비움" --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "대화창에 URL 주소를 생성합니다."
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = true;
+L['Below Chat'] = true;
 L["BG"] = "전장"
 L["BGL"] = "전장 지휘관"
 L["BN:"] = "BN:"
+L['Chat EditBox Position'] = true;
 L['Chat History'] = true;
 L["Chat"] = "대화창"
 L["CHAT_DESC"] = "ElvUI의 대화창을 설정합니다."
@@ -214,6 +217,7 @@ L["Panel Width"] = "패널 너비"
 L["PANEL_DESC"] = "좌우 패널의 너비를 조절합니다. 이 값에 따라 대화창과 가방의 크기가 변경됩니다."
 L["PG"] = "PG"
 L["PL"] = "PL"
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "똑같은 메시지는 정해진 시간 내 한번 이상 표시되지 않도록 막습니다. 0으로 설정하면 이 기능을 끕니다."
 L["R"] = "R"
 L["Right Only"] = "오른쪽 만"
@@ -417,7 +421,7 @@ L["Wrist"] = "손목"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = true;
-L["INCOMPATIBLE_ADDON"] = "[%s] 이 애드온은 ElvUI의 %s 모듈과 호환되지 않습니다. 호환되지 않는 애드온이나 모듈을 비활성화하십시오."
+L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
 L["No locals to dump"] = true;
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = true;
 
