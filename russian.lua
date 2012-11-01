@@ -177,15 +177,15 @@ L['Wrap After'] = "Размер ряда"
 L['Your Auras First'] = "Сначала свои"
 
 --Chat
-L['Above Chat'] = true;
+L['Above Chat'] = "Над чатом";
 L["AFK"] = "АФК" --Also used in datatexts and tooltip
 L["Attempt to create URL links inside the chat."] = "Пытаться создавать интернет-ссылки в чате."
 L['Attempt to lock the left and right chat frame positions. Disabling this option will allow you to move the main chat frame anywhere you wish.'] = "Закрепляет позиции левого и правого чата к соответственным панелям. Отключение этой опции позволит перемещать чат независимо от них."
-L['Below Chat'] = true;
+L['Below Chat'] = "Под чатом"
 L["BG"] = "ПБ"
 L["BGL"] = "Лидер ПБ"
 L["BN:"] = "BN:"
-L['Chat EditBox Position'] = true;
+L['Chat EditBox Position'] = "Позиция поля ввода"
 L['Chat History'] = "История чата"
 L["Chat"] = "Чат"
 L["CHAT_DESC"] = "Настройте отображение чата ElvUI."
@@ -217,7 +217,7 @@ L['Panel Width'] = "Ширина панели"
 L["PANEL_DESC"] = "Регулирование размеров левой и правой панелей. Это окажет эффект на чат и сумки."
 L["PG"] = "Гр"
 L["PL"] = "Лидер гр."
-L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = true;
+L['Position of the Chat EditBox, if datatexts are disabled this will be forced to be above chat.'] = "Позиция поля ввода для чата. Если инфо-тексты отключены, оно всегда будет над чатом."
 L["Prevent the same messages from displaying in chat more than once within this set amount of seconds, set to zero to disable."] = "Предотвращает появление одинаковых сообщения в чате чаще указанного количества секунд. Установите на нуль для отключения."
 L["R"] = "Р"
 L['Right Only'] = "Только правый"
@@ -420,7 +420,7 @@ L["Wrist"] = "Запястья"
 
 --DebugTools
 L["%s: %s tried to call the protected function '%s'."] = "%s: %s tried to call the protected function '%s'." --No need to translate due to our code sharing tool will make it unreadable
-L["INCOMPATIBLE_ADDON"] = "The addon %s is not compatible with ElvUI's %s module. Please select either the addon or the ElvUI module to disable."
+L["INCOMPATIBLE_ADDON"] = "Аддон %s не совместим с модулем %s ElvUI. Пожалуйста, выберите отключить ли не совместимый аддон или модуль."
 L["No locals to dump"] = "No locals to dump" --No need to translate due to our code sharing tool will make it unreadable
 L['|cFFE30000Lua error recieved. You can view the error message when you exit combat.'] = "|cFFE30000Обнаружена ошибка lua. Вы получите отчет о ней после завершения боя."
 
@@ -636,10 +636,10 @@ L["Are you sure you want to disband the group?"] = "Вы уверены, что 
 L["Are you sure you want to reset every mover back to it's default position?"] = "Вы уверены, что хотите сбросить все фиксаторы на позиции по умолчанию?"
 L["Because of the mass confusion caused by the new aura system I've implemented a new step to the installation process. This is optional. If you like how your auras are setup go to the last step and click finished to not be prompted again. If for some reason you are prompted repeatedly please restart your game."] = "Из-за массового непонимания новой системы аур, я добавил новый шаг в установку. Он опционален. Если Вам нравится, как сейчас настроены Ваши ауры, передите до последнюю страницу установки и назмите \"Завершить\", чтобы это сообщение больше не появлялось. Если же оно появится снова, пожалуйста, перезапустите игру."
 L["Can't buy anymore slots!"] = "Невозможно приобрести больше слотов!"
-L['Disable Warning'] = true;
-L['Do you swear not to post in technical support about something not working without first disabling the addon/module combination first?'] = true;
+L['Disable Warning'] = "Отключить предупреждение"
+L['Do you swear not to post in technical support about something not working without first disabling the addon/module combination first?'] = "Клянетесь лы Вы не постить на форуме технической поддержки, что что-то не работает, до того, как отключите другие аддоны/модули?"
 L["Hover your mouse over any actionbutton or spellbook button to bind it. Press the escape key or right click to clear the current actionbutton's keybinding."] = "Наведите курсор на любую кнопку на панели или в книге заклинаний, чтобы назначит ей клавишу. Нажмите правую кнопку мыши или 'Escape', чтобы сбросить назначение для этой кнопки."
-L['I Swear'] = true;
+L['I Swear'] = "Я клянусь!"
 L["One or more of the changes you have made require a ReloadUI."] = "Одно или несколько изменений требуют перезагрузки интерфейса"
 L["One or more of the changes you have made will effect all characters using this addon. You will have to reload the user interface to see the changes you have made."] = "Одно или несколько изменений повлияют на всех персонажей, использующих этот аддон. Вы должны перезагрузить интерфейс для отображения этих изменений."
 L["Save"] = "Сохранить"
