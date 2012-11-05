@@ -931,6 +931,7 @@ L["Units Per Column"] = "Юнитов на столбец"
 L["Up"] = "Вверх"
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "Использовать свой фоновый цвет вместо основного цвета полосы здоровья."
 L["Value must be a number"] = "Значение должно быть числом"
+L['Vengeance'] = "Отмщение"
 L["Vertical"] = "Вертикально" --Also used in bags section
 L["Visibility"] = "Видимость"
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "К чему должна пристыковываться каждая рамка. Например, значение 'TOP' заставит рамки прикрепляться к нижней границе предыдущей."
