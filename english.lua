@@ -253,6 +253,7 @@ Example: Interface\AddOns\ElvUI\media\textures\copy
 Or for most users it would be easier to simply put a tga file into your WoW folder, then type the name of the file here.]=] ] = true;
 
 --Config / Install
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = true;
 L["Auras System"] = true;
 L["Caster DPS"] = true;
@@ -263,6 +264,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = true;
 L["CVars Set"] = true;
 L["CVars"] = true;
+L['Dark'] = true;
 L["ElvUI Installation"] = true;
 L["Finished"] = true;
 L["Grid Size:"] = true;
@@ -718,6 +720,7 @@ L['Blood'] = true;
 L["Boss Frames"] = true;
 L["Buff Indicator"] = true;
 L["Buffs"] = true;
+L['By Type'] = true;
 L["Camera Distance Scale"] = true;
 L["Castbar"] = true;
 L['Center'] = true;
@@ -727,6 +730,7 @@ L["Class Power"] = true;
 L['Class Resources'] = true;
 L["Classbar"] = true;
 L['Click Through'] = true;
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = true;
 L["Color health by classcolor or reaction."] = true;
 L["Color Icons"] = true;
@@ -922,6 +926,7 @@ L["Units Per Column"] = true;
 L["Up"] = true;
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = true;
 L["Value must be a number"] = true;
+L['Vengeance'] = true;
 L["Vertical"] = true; --Also used in bags section
 L["Visibility"] = true;
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = true;

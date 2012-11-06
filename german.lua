@@ -261,6 +261,7 @@ Zum Beispiel: Interface\AddOns\ElvUI\media\textures\copy
 Oder für die meisten Anwender wäre es einfacher, einfach ein tga-Datei in Ihrem WoW-Ordner zu geben. Dann gib den Namen der Datei hier an.]=]
 
 --Config / Install
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = "Auren gesetzt" 
 L["Auras System"] = "Auren System"
 L["Caster DPS"] = "Fernkampf DD"
@@ -271,6 +272,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = 'Konfigurations Modus:'
 L["CVars Set"] = "CVars gesetzt"
 L["CVars"] = "CVars"
+L['Dark'] = true;
 L["ElvUI Installation"] = "ElvUI Installation"
 L["Finished"] = "Beendet"
 L["Grid Size:"] = "Raster Größe:"
@@ -726,6 +728,7 @@ L['Blood'] = 'Blut'
 L["Boss Frames"] = "Boss Fenster"
 L["Buff Indicator"] = "Buff Indikator"
 L["Buffs"] = "Buffs"
+L['By Type'] = true;
 L["Camera Distance Scale"] = "Kameradistanz Skalierung"
 L["Castbar"] = "Zauberleiste"
 L['Center'] = 'Zentrum'
@@ -735,6 +738,7 @@ L["Class Power"] = "Klassen Kraft"
 L['Class Resources'] = 'Klassen Resourcen'
 L["Classbar"] = "Klassenleiste"
 L['Click Through'] = 'Klicke hindurch'
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = "Färbe die Gesundheitsleiste entsprechend der aktuell verbleibenden Lebenspunkte"
 L["Color health by classcolor or reaction."] = "Gesundheitsfarbe nach Klassenfarbe oder Reaktion."
 L["Color Icons"] = "Symbol färben"
@@ -930,6 +934,7 @@ L["Units Per Column"] = "Einheiten pro Spalte"
 L["Up"] = "Hinauf"
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "Wähle eine eigene Hintergrundfarbe, andernfalls wird die aktuelle Gesundheitsleistenfabe verwendet."
 L["Value must be a number"] = "Der Wert muss eine Zahl sein"
+L['Vengeance'] = true;
 L["Vertical"] = "Vertikal" --Also used in bags section
 L["Visibility"] = "Sichtbarkeit"
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "Woran sich jedes Fenster anheften soll; zB, wenn es auf OBEN eingestellt ist, wird sich jede Einheit mit ihrem oberen Bereich am unteren Bereich der letzten Einheit anheften."

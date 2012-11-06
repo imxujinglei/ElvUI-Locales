@@ -262,6 +262,7 @@ Example: Interface\AddOns\ElvUI\media\textures\copy
 Para a maioria dos usuários seria mais fácil simplesmente copiar o ficheiro tga na pasta do WoW e depois escrever o nome dele aqui.]=]
 
 --Config / Install
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = "Auras configuradas"
 L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Lançador"
@@ -272,6 +273,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = "Modo de configuração";
 L["CVars Set"] = "CVars configuradas"
 L["CVars"] = "CVars"
+L['Dark'] = true;
 L["ElvUI Installation"] = "Instalação do ElvUI"
 L["Finished"] = "Terminado"
 L["Grid Size:"] = "Tamanho da Grade";
@@ -727,6 +729,7 @@ L['Blood'] = "Sangue";
 L["Boss Frames"] = "Quadros dos Chefes";
 L["Buff Indicator"] = "Indicador de Bônus";
 L["Buffs"] = "Bônus";
+L['By Type'] = true;
 L["Camera Distance Scale"] = "Escala de distância da câmera";
 L["Castbar"] = "Barra de lançamento";
 L['Center'] = "Centro";
@@ -736,6 +739,7 @@ L["Class Power"] = "Poder por classe";
 L['Class Resources'] = "Recursos de Classe";
 L["Classbar"] = "Barra da Classe";
 L['Click Through'] = "Clicar através";
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = "Colorir a vida pela quantidade restante.";
 L["Color health by classcolor or reaction."] = "Colorir a vida pela cor da classe ou reação.";
 L["Color Icons"] = "Cores de Ícones";
@@ -931,6 +935,7 @@ L["Units Per Column"] = "Unidades por coluna";
 L["Up"] = "Para cima";
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "Usar a cor de fundo da vida personalizada em vez de um multiplo da cor de vida principal.";
 L["Value must be a number"] = "O valor tem de ser um número";
+L['Vengeance'] = true;
 L["Vertical"] = "Vertical"; --Also used in bags section
 L["Visibility"] = "Visibilidade";
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "Em que cada quadro deve anexar-se, exemplo: definir para 'cima' fará com que todas as unidades anexem o seu topo ao último ponto de baixo.";

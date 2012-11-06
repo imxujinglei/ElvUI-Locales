@@ -263,6 +263,7 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 對多數玩家來說，較簡易的方式是將 tga 檔放入 WoW 資料夾中，然後在此處輸入檔案名稱。]=];
 
 --Config / Install | 設定 / 安裝設定
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = true;
 L["Auras System"] = true;
 L["Caster DPS"] = "遠程輸出";
@@ -273,6 +274,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = true;
 L["CVars Set"] = "參數設定完畢";
 L["CVars"] = "參數";
+L['Dark'] = true;
 L["ElvUI Installation"] = "安裝 ElvUI";
 L["Finished"] = "設定完畢";
 L["Grid Size:"] = "Grid 尺寸：";
@@ -728,6 +730,7 @@ L['Blood'] = true;
 L["Boss Frames"] = "BOSS 框架";
 L["Buff Indicator"] = "增益光環提示";
 L["Buffs"] = "增益光環";
+L['By Type'] = true;
 L["Camera Distance Scale"] = "鏡頭距離";
 L["Castbar"] = "施法條";
 L['Center'] = true;
@@ -737,6 +740,7 @@ L["Class Power"] = "能量條職業色";
 L['Class Resources'] = true;
 L["Classbar"] = "職業列";
 L['Click Through'] = true;
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = "依剩餘生命值變更生命條顏色。";
 L["Color health by classcolor or reaction."] = "生命條以職業色顯示。";
 L["Color Icons"] = "圖示顏色";
@@ -932,6 +936,7 @@ L["Units Per Column"] = "隊員數量";
 L["Up"] = "上";
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "使用自訂的生命條背景色，而不使用生命條的顏色。";
 L["Value must be a number"] = "輸入值必須為數字";
+L['Vengeance'] = true;
 L["Vertical"] = "垂直增減"; --Also used in bags section
 L["Visibility"] = "可見性";
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "每個隊員框架的排列順序，例如：若設為「TOP」(向上對齊)，則每個隊員的單位框架將排列在上一個隊員的框架下方。";

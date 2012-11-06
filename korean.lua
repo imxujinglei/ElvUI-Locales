@@ -262,6 +262,7 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 혹은 간단히 사용하고자 하는 tga파일을 당신의 와우 폴더에 넣은후 이곳에 파일이름을 적어도 됩니다.]=]
 
 --Config / Install
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = true;
 L["Auras System"] = true;
 L["Caster DPS"] = "원거리 딜러"
@@ -272,6 +273,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = true;
 L["CVars Set"] = "CVars 설정"
 L["CVars"] = "게임 인터페이스 설정(CVars)"
+L['Dark'] = true;
 L["ElvUI Installation"] = "ElvUI 설치"
 L["Finished"] = "마침"
 L["Grid Size:"] = "격자 크기 :"
@@ -733,6 +735,7 @@ L['Blood'] = true;
 L["Boss Frames"] = "보스 프레임"
 L["Buff Indicator"] = "버프 알람"
 L["Buffs"] = "버프"
+L['By Type'] = true;
 L["Camera Distance Scale"] = "시야 거리"
 L["Castbar"] = "시전바"
 L['Center'] = true;
@@ -742,6 +745,7 @@ L["Class Power"] = "직업별 마력 색상"
 L['Class Resources'] = true;
 L["Classbar"] = "직업 바"
 L['Click Through'] = true;
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = "생명력의 양에 따라 색상이 변화합니다."
 L["Color health by classcolor or reaction."] = "직업이나 관계에 따라 생명력 색상을 변경합니다."
 L["Color Icons"] = "아이콘 색상"
@@ -938,6 +942,7 @@ L["Units Per Column"] = "열당 유닛 수"
 L["Up"] = "위로"
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "다양한 생명력 바 색상 대신에 임의로 지정한 생명력 배경 색상을 사용합니다."
 L["Value must be a number"] = true;
+L['Vengeance'] = true;
 L["Vertical"] = "세로" --Also used in bags section
 L["Visibility"] = "표시"
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "프레임끼리 서로 붙입니다. 모든 유닛을 'TOP\"으로 설정할 경우 가장 마지막 프레임의 아래에 붙입니다."

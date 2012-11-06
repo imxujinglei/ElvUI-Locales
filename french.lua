@@ -262,6 +262,7 @@ Exemple: Interface\AddOns\ElvUI\media\textures\copy
 Ou pour la majorité des utilsateurs, il serait plus simple de mettre le fichier tga dans le dossier de World of Warcraft puis de taper son nom ici.]=]
 
 --Config / Install
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = "Configuration des Auras";
 L["Auras System"] = "Système d'Auras";
 L["Caster DPS"] = "DPS Distance"
@@ -272,6 +273,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = "Mode Configuration:"
 L["CVars Set"] = "CVars configurés"
 L["CVars"] = "CVars"
+L['Dark'] = true;
 L["ElvUI Installation"] = "Installation d'ElvUI"
 L["Finished"] = "Terminé"
 L["Grid Size:"] = "Taille de la Grille:"
@@ -727,6 +729,7 @@ L['Blood'] = "Sang";
 L["Boss Frames"] = "Cadre du Boss"
 L["Buff Indicator"] = "Indicateur d'affaiblissement"
 L["Buffs"] = "Améliorations"
+L['By Type'] = true;
 L["Camera Distance Scale"] = "Distance de la caméra"
 L["Castbar"] = "Barre d'incantation"
 L['Center'] = "Centrer";
@@ -736,6 +739,7 @@ L["Class Power"] = "Énergie selon la Classe"
 L['Class Resources'] = "Ressources des Classes";
 L["Classbar"] = "Barre de Classe"
 L['Click Through'] = "Clic à travers";
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = "Colore le cadre selon la vie restante."
 L["Color health by classcolor or reaction."] = "Colore la vie par la couleur de la classe ou par l'aggro."
 L["Color Icons"] = "Couleur des icônes"
@@ -931,6 +935,7 @@ L["Units Per Column"] = "Unités par colonne"
 L["Up"] = "Haut"
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "Utilise une couleur personnalisé pour colorer le fond de la barre de vie au lieu d'utiliser la couleur par défaut."
 L["Value must be a number"] = "La valeur doit être un nombre"
+L['Vengeance'] = true;
 L["Vertical"] = "Verticale"
 L["Visibility"] = "Visibilité"
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "Le point d'ancrage pour attacher les cadres entre eux, exemple: si le paramètre est sur TOP, tous les cadres d'unité se développeront vers le bas."

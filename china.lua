@@ -262,6 +262,7 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 对多数玩家来说，较简易的方式是将 tga 档放入 WoW 资料夹中，然后在此处输入档案名称。]=]
 
 --Config / Install
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = true;
 L["Auras System"] = true;
 L["Caster DPS"] = "法系输出"
@@ -272,6 +273,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = true;
 L["CVars Set"] = "参数设定"
 L["CVars"] = "参数"
+L['Dark'] = true;
 L["ElvUI Installation"] = "安装 ElvUI"
 L["Finished"] = "完成"
 L["Grid Size:"] = "Grid 尺寸:"
@@ -727,6 +729,7 @@ L['Blood'] = true;
 L["Boss Frames"] = "BOSS 框架"
 L["Buff Indicator"] = "Buff 提示器"
 L["Buffs"] = "增益光环"
+L['By Type'] = true;
 L["Camera Distance Scale"] = "视角镜头的距离"
 L["Castbar"] = "施法条"
 L['Center'] = true;
@@ -736,6 +739,7 @@ L["Class Power"] = "能量条职业色"
 L['Class Resources'] = true;
 L["Classbar"] = "职业特有条"
 L['Click Through'] = true;
+L['Color aurabar debuffs by type.'] = true;
 L["Color health by amount remaining."] = "按数值变化血量颜色"
 L["Color health by classcolor or reaction."] = "以职业色显示生命"
 L["Color Icons"] = "图示颜色"
@@ -931,6 +935,7 @@ L["Units Per Column"] = "每列单位数"
 L["Up"] = "上"
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "自定义生命条背景色"
 L["Value must be a number"] = true;
+L['Vengeance'] = true;
 L["Vertical"] = "垂直" --Also used in bags section
 L["Visibility"] = "可见性"
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "每一个框架都会依附在你设定的位置上, 例如: 你设定依附于TOP那么每一个单位都将把它单位TOP依附于前一个单位的BOTTOM"
