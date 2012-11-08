@@ -262,7 +262,7 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 Для большинства пользователей будет легче просто положить tga файл в папку игры, а затем написать имя файла здесь.]=]
 
 --Config / Install
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = "В ElvUI была добавлена новая тема Pixel Perfect! Эта тема улучшит общую производительность и сделает вид ElvUI чище. К сожалению, применение этой темы сбросит некоторые настройки. Вы хотите опробовать тему Pixel Perfect?"
 L["Auras Set"] = "Ауры установлены"
 L["Auras System"] = "Система аур"
 L["Caster DPS"] = "Заклинатель"
@@ -273,7 +273,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = "Режим настройки:"
 L["CVars Set"] = "Настройки сброшены"
 L["CVars"] = "Настройки игры"
-L['Dark'] = true;
+L['Dark'] = "Темная"
 L["ElvUI Installation"] = "Установка ElvUI"
 L["Finished"] = "Завершить"
 L["Grid Size:"] = "Размер сетки"
@@ -729,7 +729,7 @@ L['Blood'] = "Кровь"
 L["Boss Frames"] = "Боссы"
 L["Buff Indicator"] = "Индикатор баффов"
 L["Buffs"] = "Баффы"
-L['By Type'] = true;
+L['By Type'] = "По типу"
 L["Camera Distance Scale"] = "Дистанция камеры"
 L["Castbar"] = "Полоса заклинаний"
 L['Center'] = "Центр"
@@ -739,7 +739,7 @@ L["Class Power"] = "Ресурс по классу"
 L['Class Resources'] = "Ресурсы класса"
 L["Classbar"] = "Полоса класса"
 L['Click Through'] = "Клик насквозь"
-L['Color aurabar debuffs by type.'] = true;
+L['Color aurabar debuffs by type.'] = "Окрашивать полосы аур по типу"
 L["Color health by amount remaining."] = "Окрашивает полосу здоровья в зависимости от оставшегося его количества."
 L["Color health by classcolor or reaction."] = "Окрашивает полосу здоровья по цвету класса или отношению."
 L["Color Icons"] = "Окрашивать иконки"
