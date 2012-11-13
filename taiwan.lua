@@ -4,7 +4,7 @@ local L = AceLocale:NewLocale("ElvUI", "zhTW")
 if not L then return end
 
 --TEMP
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = true;
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortunately theres nothing we can do to fix it, please reload your ui and try again."] = true;
 
 --ActionBars 快捷列
 L[" |cff00ff00bound to |r"] = " |cff00ff00綁定至 |r";
@@ -263,7 +263,7 @@ Or for most users it would be easier to simply put a tga file into your WoW fold
 對多數玩家來說，較簡易的方式是將 tga 檔放入 WoW 資料夾中，然後在此處輸入檔案名稱。]=];
 
 --Config / Install | 設定 / 安裝設定
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = true;
 L["Auras System"] = true;
 L["Caster DPS"] = "遠程輸出";

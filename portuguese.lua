@@ -3,7 +3,7 @@ local L = AceLocale:NewLocale("ElvUI", "ptBR")
 if not L then return end
 
 --TEMP
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Ocorreu um problema que está a impedir que use os seus Talentos/Glifos, isto pode acontecer caso tenha inspeccionado alguém. Infelizmente não há nada que possamos fazer para corrigir o problema. Recarregue a sua ui e tente novamente."
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortunately theres nothing we can do to fix it, please reload your ui and try again."] = "Ocorreu um problema que está a impedir que use os seus Talentos/Glifos, isto pode acontecer caso tenha inspeccionado alguém. Infelizmente não há nada que possamos fazer para corrigir o problema. Recarregue a sua ui e tente novamente."
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = " |cff00ff00Ligado a |r"
@@ -262,7 +262,7 @@ Example: Interface\AddOns\ElvUI\media\textures\copy
 Para a maioria dos usuários seria mais fácil simplesmente copiar o ficheiro tga na pasta do WoW e depois escrever o nome dele aqui.]=]
 
 --Config / Install
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = "Auras configuradas"
 L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Lançador"

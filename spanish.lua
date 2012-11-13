@@ -5,7 +5,7 @@ if not L then return end
 
 
 --TEMP
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Ha ocurrido un problema que no te permite cambiar tus talentos y glifos, esto puede suceder si has inspeccionado a alguien. Desgraciadamente no podemos hacer nada para arreglarlo, por favor recarga tu interfaz y vuelve a intentarlo."
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortunately theres nothing we can do to fix it, please reload your ui and try again."] = "Ha ocurrido un problema que no te permite cambiar tus talentos y glifos, esto puede suceder si has inspeccionado a alguien. Desgraciadamente no podemos hacer nada para arreglarlo, por favor recarga tu interfaz y vuelve a intentarlo."
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = " |cff00ff00ligado(a) a |r"
@@ -264,7 +264,7 @@ Ejemplo: Interface\AddOns\ElvUI\media\textures\copy
 O también puedes simplemente colocar un archivo tga en la carpeta de WoW, y escribir aquí el nombre del archivo.]=]
 
 --Config / Install
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = "Auras Configuradas"
 L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Hechizos"

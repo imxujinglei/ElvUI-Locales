@@ -4,7 +4,7 @@ local L = AceLocale:NewLocale("ElvUI", "deDE")
 if not L then return end
 
 --TEMP
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Ein Fehler ist aufgetreten der dich daran hindert Talente/Glyphen zu nutzen. Momentan kann man nicht machen um das zu ändern, bitte lade dein UI neu und versuch es nochmal." 
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortunately theres nothing we can do to fix it, please reload your ui and try again."] = "Ein Fehler ist aufgetreten der dich daran hindert Talente/Glyphen zu nutzen. Momentan kann man nicht machen um das zu ändern, bitte lade dein UI neu und versuch es nochmal." 
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = " |cff00ff00gebunden zu |r"
@@ -261,7 +261,7 @@ Zum Beispiel: Interface\AddOns\ElvUI\media\textures\copy
 Oder für die meisten Anwender wäre es einfacher, einfach ein tga-Datei in Ihrem WoW-Ordner zu geben. Dann gib den Namen der Datei hier an.]=]
 
 --Config / Install
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = 'Ein neues Thema namens Pixel Perfekt wurde für ElvUI hinzugefügt! Dieses Thema wird die gesamte Performance verbessern und bietet ein saubers Aussehn für ElvUI. Um dieses Thema zu benutzen müssen allerdings einige Einstellungen zurückgesetzt werden. Möchtest du versuchen das Pixel Perfekt Thema zu benutzen?'
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = 'Ein neues Thema namens Pixel Perfekt wurde für ElvUI hinzugefügt! Dieses Thema wird die gesamte Performance verbessern und bietet ein saubers Aussehn für ElvUI. Um dieses Thema zu benutzen müssen allerdings einige Einstellungen zurückgesetzt werden. Möchtest du versuchen das Pixel Perfekt Thema zu benutzen?'
 L["Auras Set"] = "Auren gesetzt" 
 L["Auras System"] = "Auren System"
 L["Caster DPS"] = "Fernkampf DD"

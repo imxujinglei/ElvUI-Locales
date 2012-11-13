@@ -3,7 +3,7 @@ local L = AceLocale:NewLocale("ElvUI", "frFR");
 if not L then return; end
 
 --TEMP
-L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortionatly theres nothing we can do to fix it, please reload your ui and try again."] = "Une Action s'est produite qui vous empeche d'utiliser vos talents/glyphes.Cela peut se produire si vous avez inspecté quelqu'un.Malheureusement il n'y a rien que l'on puisse reparer,rechargez votre UI et essayez à nouveau";
+L["A taint has occured that is preventing you from using your talents/glyphs, this can happen if you've inspected someone. Unfortunately theres nothing we can do to fix it, please reload your ui and try again."] = "Une Action s'est produite qui vous empeche d'utiliser vos talents/glyphes.Cela peut se produire si vous avez inspecté quelqu'un.Malheureusement il n'y a rien que l'on puisse reparer,rechargez votre UI et essayez à nouveau";
 
 --ActionBars
 L[" |cff00ff00bound to |r"] = "|cff00ff00assigné à |r"
@@ -262,7 +262,7 @@ Exemple: Interface\AddOns\ElvUI\media\textures\copy
 Ou pour la majorité des utilsateurs, il serait plus simple de mettre le fichier tga dans le dossier de World of Warcraft puis de taper son nom ici.]=]
 
 --Config / Install
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortionatly to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
 L["Auras Set"] = "Configuration des Auras";
 L["Auras System"] = "Système d'Auras";
 L["Caster DPS"] = "DPS Distance"
