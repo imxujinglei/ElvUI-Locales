@@ -264,7 +264,7 @@ Ejemplo: Interface\AddOns\ElvUI\media\textures\copy
 O también puedes simplemente colocar un archivo tga en la carpeta de WoW, y escribir aquí el nombre del archivo.]=]
 
 --Config / Install
-L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = true;
+L['A new theme called Pixel Perfect has been added for ElvUI! This theme will increase overall performance and provides a cleaner appearance to all of ElvUI. Unfortunately to apply this theme it will require some settings getting reset. Would you like to try the Pixel Perfect theme?'] = 'Un nuevo tema llamado Pixel Perfect ha sido añadido a ElvUI! Este tema aumenta el rendimiento y otorga una apariencia más limpia a ElvUI. Desafortunadamente para aplicar este tema, alguna configuraciones se restearán. Te gustaría probar el tema Pixel Perfect?'
 L["Auras Set"] = "Auras Configuradas"
 L["Auras System"] = "Sistema de Auras"
 L["Caster DPS"] = "DPS Hechizos"
@@ -275,7 +275,7 @@ L["Click the button below to resize your chat frames, unitframes, and reposition
 L['Config Mode:'] = "Modo de Configuración";
 L["CVars Set"] = "CVars Configuradas"
 L["CVars"] = "CVars"
-L['Dark'] = true;
+L['Dark'] = 'Oscuro'
 L["ElvUI Installation"] = "Instalación de ElvUI"
 L["Finished"] = "Terminado"
 L["Grid Size:"] = "Tamaño de la Rejilla:"
@@ -731,7 +731,7 @@ L['Blood'] = 'Sangre';
 L["Boss Frames"] = "Marco de Jefe";
 L["Buff Indicator"] = "Indicador de Beneficio";
 L["Buffs"] = "Beneficios";
-L['By Type'] = true;
+L['By Type'] = 'Por tipo'
 L["Camera Distance Scale"] = "Escala de la Distancia de la Cámara";
 L["Castbar"] = "Barra de Lanzamiento";
 L['Center'] = "Centro";
@@ -741,7 +741,7 @@ L["Class Power"] = "Poder de Clase";
 L['Class Resources'] = 'Recursos de Clase';
 L["Classbar"] = "Barra de Clase";
 L['Click Through'] = "Clic A través";
-L['Color aurabar debuffs by type.'] = true;
+L['Color aurabar debuffs by type.'] = 'Color de los perjuicios de la barra de aura por tipo'
 L["Color health by amount remaining."] = "Color de salud por la cantidad restante.";
 L["Color health by classcolor or reaction."] = "Color de salud por el color de clase o reacción.";
 L["Color Icons"] = "Iconos de Colores";
@@ -937,7 +937,7 @@ L["Units Per Column"] = "Unidades por Columna";
 L["Up"] = "Arriba";
 L["Use the custom health backdrop color instead of a multiple of the main health color."] = "Usar el color de fondo personalizado para la salud en vez de un múltiplo del color principal.";
 L["Value must be a number"] = "El valor debe ser un número";
-L['Vengeance'] = true;
+L['Vengeance'] = 'Venganza'
 L["Vertical"] = "Vertical"; --Also used in bags section
 L["Visibility"] = "Visibilidad";
 L["What each frame should attach itself to, example setting it to TOP every unit will attach its top to the last point bottom."] = "Cada marco debería adjuntarse consigo mismo, por ejemplo estableciendo ARRIBA cada unidad se adjuntara a su último punto de abajo.";
