@@ -275,6 +275,7 @@ L['Config Mode:'] = true;
 L["CVars Set"] = "CVars 설정"
 L["CVars"] = "게임 인터페이스 설정(CVars)"
 L['Dark'] = true;
+L['Disable'] = true;
 L["ElvUI Installation"] = "ElvUI 설치"
 L["Finished"] = "마침"
 L["Grid Size:"] = "격자 크기 :"
@@ -533,6 +534,7 @@ L["Your version of ElvUI is out of date. You can download the latest version fro
 --NamePlates
 L["Add Name"] = "이름 추가"
 L["All"] = "모두"
+L['Aura'] = = true;
 L["Auras"] = "오라"
 L['Background Multiplier'] = true;
 L["Bad Color"] = "위협적일 때 색상"
@@ -761,6 +763,7 @@ L["Color power by classcolor or reaction."] = "직업이나 관계에 따라 마
 L["Color the health backdrop by class or reaction."] = "직업이나 관계에 따라 생명력 배경의 색상을 변경합니다."
 L["Color the unit healthbar if there is a debuff that can be dispelled by you."] = "만약 당신이 해제할 수 있는 디버프에 걸렸을 경우 표시되는 체력바 색상."
 L["Color"] = "색상"
+L['Colored Icon'] = true;
 L["Column Point"] = "열 위치"
 L["Column Spacing"] = "열 간격"
 L["Combat Fade"] = "전투시 사라짐"
@@ -929,6 +932,8 @@ L["Target Frame"] = "대상 프레임"
 L["TargetTarget Frame"] = "대상의대상 프레임"
 L["Text Format"] = "문자 형식"
 L["Text Toggle On NPC"] = "NPC일 경우 문자 전환"
+L['Text'] = true;
+L['Textured Icon'] = true;
 L["The alpha to set units that are out of range to."] = "사거리 밖의 대상에 대한 투명도를 설정합니다."
 L["The amount of space (in pixels) between the columns."] = "열 사이의 간격을 설정하니다."
 L["The anchor point for each new column. A value of LEFT will cause the columns to grow to the right."] = "생성된 열의 기준점을 설정합니다. 'LEFT'일 경우 오른쪽으로 증감하게 됩니다."

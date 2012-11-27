@@ -277,6 +277,7 @@ L['Config Mode:'] = "Modo de Configuración";
 L["CVars Set"] = "CVars Configuradas"
 L["CVars"] = "CVars"
 L['Dark'] = 'Oscuro'
+L['Disable'] = true;
 L["ElvUI Installation"] = "Instalación de ElvUI"
 L["Finished"] = "Terminado"
 L["Grid Size:"] = "Tamaño de la Rejilla:"
@@ -532,6 +533,7 @@ L["Your version of ElvUI is out of date. You can download the latest version fro
 --NamePlates
 L["Add Name"] = "Añadir Nombre";
 L["All"] = "Todo";
+L['Aura'] = = true;
 L["Auras"] = "Auras";
 L['Background Multiplier'] = 'Multiplicados de Fondo';
 L["Bad Color"] = "Mal Color";
@@ -757,6 +759,7 @@ L["Color power by classcolor or reaction."] = "Color de poder por el color de cl
 L["Color the health backdrop by class or reaction."] = "Color de fondo de salud por el color de clase o reacción.";
 L["Color the unit healthbar if there is a debuff that can be dispelled by you."] = "Color de la barra de salud si hay un perjuicio que puede ser disipado por ti.";
 L["Color"] = "Color";
+L['Colored Icon'] = true;
 L["Column Point"] = "Punto de Columna";
 L["Column Spacing"] = "Separación de Columna";
 L["Combat Fade"] = "Desvanecer en Combate";
@@ -924,6 +927,8 @@ L["Target Frame"] = "Marco de Objetivo";
 L["TargetTarget Frame"] = "Marco de Objetivo de Objetivo";
 L["Text Format"] = "Formato de Texto";
 L["Text Toggle On NPC"] = "Alternar Texto en PNJ";
+L['Text'] = true;
+L['Textured Icon'] = true;
 L["The alpha to set units that are out of range to."] = "Establece la transparencia para las unidades fuera de alcance.";
 L["The amount of space (in pixels) between the columns."] = "La cantidad de espacio (en píxeles) entre las columnas.";
 L["The anchor point for each new column. A value of LEFT will cause the columns to grow to the right."] = "El punto de fijación para cada nueva columna. Un valor de IZQUIERDA hará que crezca hacia la derecha.";

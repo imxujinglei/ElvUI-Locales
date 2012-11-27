@@ -275,6 +275,7 @@ L['Config Mode:'] = "Mode Configuration:"
 L["CVars Set"] = "CVars configurés"
 L["CVars"] = "CVars"
 L['Dark'] = "Sombre";
+L['Disable'] = true;
 L["ElvUI Installation"] = "Installation d'ElvUI"
 L["Finished"] = "Terminé"
 L["Grid Size:"] = "Taille de la Grille:"
@@ -530,6 +531,7 @@ L["Your version of ElvUI is out of date. You can download the latest version fro
 --NamePlates
 L["Add Name"] = "Ajouter un nom"
 L["All"] = "Tout"
+L['Aura'] = = true;
 L["Auras"] = "Auras"
 L['Background Multiplier'] = "Multiplication de l'arrière-plan";
 L["Bad Color"] = "Mauvaise couleur"
@@ -755,6 +757,7 @@ L["Color power by classcolor or reaction."] = "Colore l'énergie de la classe pa
 L["Color the health backdrop by class or reaction."] = "Colore l'arrière-plan de la barre de vie par la couleur de la classe ou par l'aggro."
 L["Color the unit healthbar if there is a debuff that can be dispelled by you."] = "Colore la barre de vie de l'unité qui peut être dissipé par vous-même."
 L["Color"] = "Couleur"
+L['Colored Icon'] = true;
 L["Column Point"] = "Point de la colonne"
 L["Column Spacing"] = "Espace par colonne"
 L["Combat Fade"] = "Estomper hors combat"
@@ -922,6 +925,8 @@ L["Target Frame"] = "Cadre de la cible"
 L["TargetTarget Frame"] = "Cadre de la cible de votre cible"
 L["Text Format"] = "Format du texte"
 L["Text Toggle On NPC"] = "Afficher le texte des PNJ"
+L['Text'] = true;
+L['Textured Icon'] = true;
 L["The alpha to set units that are out of range to."] = "Règle la transparence des unités hors de portée."
 L["The amount of space (in pixels) between the columns."] = "Quantitée d'espace (en pixels) entre deux colonnes."
 L["The anchor point for each new column. A value of LEFT will cause the columns to grow to the right."] = "Le point d'ancrage pour chaque nouvelle colonne. Si la valeur est sur LEFT, les nouvelles colonnes se développeront sur la droite"

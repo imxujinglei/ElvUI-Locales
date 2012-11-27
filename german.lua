@@ -274,6 +274,7 @@ L['Config Mode:'] = 'Konfigurations Modus:'
 L["CVars Set"] = "CVars gesetzt"
 L["CVars"] = "CVars"
 L['Dark'] = 'Dunkel'
+L['Disable'] = true;
 L["ElvUI Installation"] = "ElvUI Installation"
 L["Finished"] = "Beendet"
 L["Grid Size:"] = "Raster Größe:"
@@ -529,6 +530,7 @@ L["Your version of ElvUI is out of date. You can download the latest version fro
 --NamePlates
 L["Add Name"] = "Name hinzufügen"
 L["All"] = "Alle"
+L['Aura'] = = true;
 L["Auras"] = "Auren"
 L['Background Multiplier'] = 'Hintergrund Multiplikator'
 L["Bad Color"] = "Schlechte Farbe"
@@ -754,6 +756,7 @@ L["Color power by classcolor or reaction."] = "Färbe die Powerleiste entspreche
 L["Color the health backdrop by class or reaction."] = "Färbe den Gesundheitshintergrund nach Klasse oder Reaktion."
 L["Color the unit healthbar if there is a debuff that can be dispelled by you."] = "Aktiviere die Hervorhebung von Einheitenfenstern, wenn ein von dir entfernbarer Debuff vorhanden ist."
 L["Color"] = "Farbe"
+L['Colored Icon'] = true;
 L["Column Point"] = "Spalten Punkt"
 L["Column Spacing"] = "Spalten Abstand"
 L["Combat Fade"] = "Im Kampf ausblenden"
@@ -921,6 +924,8 @@ L["Target Frame"] = "Ziel Fenster"
 L["TargetTarget Frame"] = "Ziel des Ziels Fenster"
 L["Text Format"] = "Text Format"
 L["Text Toggle On NPC"] = "Text umschalter auf NPCs"
+L['Text'] = true;
+L['Textured Icon'] = true;
 L["The alpha to set units that are out of range to."] = "Setzt den Alphabereich für Einheiten die aus deiner Reichweite sind."
 L["The amount of space (in pixels) between the columns."] = "Die Größe des Abstandes (in Pixel) zwischen den Spalten."
 L["The anchor point for each new column. A value of LEFT will cause the columns to grow to the right."] = "Der Ankerpunkt für jede neue Spalte. Ein LINKS-Wert verursacht eine Anwachsen der Spalten nach rechts."

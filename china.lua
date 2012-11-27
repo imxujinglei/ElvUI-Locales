@@ -275,6 +275,7 @@ L['Config Mode:'] = true;
 L["CVars Set"] = "参数设定"
 L["CVars"] = "参数"
 L['Dark'] = true;
+L['Disable'] = true;
 L["ElvUI Installation"] = "安装 ElvUI"
 L["Finished"] = "完成"
 L["Grid Size:"] = "Grid 尺寸:"
@@ -530,6 +531,7 @@ L["Your version of ElvUI is out of date. You can download the latest version fro
 --NamePlates
 L["Add Name"] = "添加名称"
 L["All"] = "全部"
+L['Aura'] = = true;
 L["Auras"] = "光环"
 L['Background Multiplier'] = true;
 L["Bad Color"] = "危险色"
@@ -755,6 +757,7 @@ L["Color power by classcolor or reaction."] = "以职业色显示能量"
 L["Color the health backdrop by class or reaction."] = "生命条背景色以职业色显示"
 L["Color the unit healthbar if there is a debuff that can be dispelled by you."] = "如果单位目标的减益光环可被驱散，加亮显示其生命值。"
 L["Color"] = "颜色"
+L['Colored Icon'] = true;
 L["Column Point"] = "列位置"
 L["Column Spacing"] = "列间距"
 L["Combat Fade"] = "战斗隐藏"
@@ -922,6 +925,8 @@ L["Target Frame"] = "目标框架"
 L["TargetTarget Frame"] = "目标的目标框架"
 L["Text Format"] = "文字格式"
 L["Text Toggle On NPC"] = "NPC 文字显示开关"
+L['Text'] = true;
+L['Textured Icon'] = true;
 L["The alpha to set units that are out of range to."] = "单位框架超出距离的透明度"
 L["The amount of space (in pixels) between the columns."] = "列之间的间隔距离(像素)"
 L["The anchor point for each new column. A value of LEFT will cause the columns to grow to the right."] = "每一行的定位. 设定这个值为LEFT, 那么这一行的将从左向增长"
