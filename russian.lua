@@ -610,10 +610,12 @@ L["Guild Frame"] = "Гильдия"
 L["Guild Registrar"] = "Регистратор гильдий"
 L["Help Frame"] = "Помощь"
 L["Inspect Frame"] = "Осмотр"
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "Назначение клавиш"
 L["LF Guild Frame"] = "Поиск гильдии"
 L["LFG Frame"] = "Поиск группы"
 L["Loot Frames"] = "Добыча"
+L['Loss Control'] = true;
 L["Macro Frame"] = "Макросы"
 L["Mail Frame"] = "Почта"
 L["Merchant Frame"] = "Торговец"
@@ -640,6 +642,7 @@ L["Trade Frame"] = "Обмен"
 L["TradeSkill Frame"] = "Профессия"
 L["Trainer Frame"] = "Тренер"
 L['Transmogrify Frame'] = "Окно транмсмогрификации"
+L['Void Storage'] = true;
 L["World Map"] = "Карта мира"
 
 --Static Popups

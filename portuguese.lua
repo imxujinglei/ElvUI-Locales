@@ -610,10 +610,12 @@ L["Guild Frame"] = "Quadro da Guilda";
 L["Guild Registrar"] = "Registrar Guilda";
 L["Help Frame"] = "Ajuda";
 L["Inspect Frame"] = "Inspeção";
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "Atalhos";
 L["LF Guild Frame"] = "Localizador de Guildas";
 L["LFG Frame"] = "Localizador de Masmorras";
 L["Loot Frames"] = "Saques";
+L['Loss Control'] = true;
 L["Macro Frame"] = "Macros";
 L["Mail Frame"] = "Correio";
 L["Merchant Frame"] = "Comerciante";
@@ -640,6 +642,7 @@ L["Trade Frame"] = "Negociar";
 L["TradeSkill Frame"] = "Profissões";
 L["Trainer Frame"] = "Instrutores";
 L['Transmogrify Frame'] = "Transmogrificação";
+L['Void Storage'] = true;
 L["World Map"] = "Mapa-múndi";
 
 --Static Popups

@@ -610,10 +610,12 @@ L["Guild Frame"] = "公会"
 L["Guild Registrar"] = "公会注册"
 L["Help Frame"] = "帮助"
 L["Inspect Frame"] = "观察"
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "快捷键"
 L["LF Guild Frame"] = "寻求公会"
 L["LFG Frame"] = true;
 L["Loot Frames"] = true;
+L['Loss Control'] = true;
 L["Macro Frame"] = "巨集"
 L["Mail Frame"] = "信箱"
 L["Merchant Frame"] = "商人"
@@ -640,6 +642,7 @@ L["Trade Frame"] = "交易"
 L["TradeSkill Frame"] = "专业技能"
 L["Trainer Frame"] = "训练师"
 L['Transmogrify Frame'] = true;
+L['Void Storage'] = true;
 L["World Map"] = "世界地图"
 
 --Static Popups

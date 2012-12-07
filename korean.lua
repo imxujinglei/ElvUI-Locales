@@ -616,10 +616,12 @@ L["Guild Frame"] = "길드 프레임"
 L["Guild Registrar"] = "길드 등록"
 L["Help Frame"] = "도움말 프레임"
 L["Inspect Frame"] = "살펴보기 프레임"
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "단축키 지정 프레임"
 L["LF Guild Frame"] = "길드찾기 프레임"
 L["LFG Frame"] = true;
 L["Loot Frames"] = true;
+L['Loss Control'] = true;
 L["Macro Frame"] = "매크로 프레임"
 L["Mail Frame"] = "우편 프레임"
 L["Merchant Frame"] = "상인 프레임"
@@ -646,6 +648,7 @@ L["Trade Frame"] = "거래 프레임"
 L["TradeSkill Frame"] = "전문기술 프레임"
 L["Trainer Frame"] = "상급자 프레임"
 L['Transmogrify Frame'] = true;
+L['Void Storage'] = true;
 L["World Map"] = "세계지도"
 
 --Static Popups

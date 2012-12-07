@@ -612,10 +612,12 @@ L["Guild Frame"] = "Hermandad";
 L["Guild Registrar"] = "Registrar Hermandad";
 L["Help Frame"] = "Ayuda";
 L["Inspect Frame"] = "Inspección";
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "Asignación de Teclas";
 L["LF Guild Frame"] = "Búsqueda de Hermandad";
 L["LFG Frame"] = "Búsqueda de Grupo";
 L["Loot Frames"] = "Despojo";
+L['Loss Control'] = true;
 L["Macro Frame"] = "Macros";
 L["Mail Frame"] = "Correo";
 L["Merchant Frame"] = "Mercader";
@@ -642,6 +644,7 @@ L["Trade Frame"] = "Comercio";
 L["TradeSkill Frame"] = "Comercio de Habilidades";
 L["Trainer Frame"] = "Entrenador";
 L['Transmogrify Frame'] = "Transmogrificación";
+L['Void Storage'] = true;
 L["World Map"] = "Mapa Mundial";
 
 --Static Popups

@@ -609,10 +609,12 @@ L["Guild Frame"] = "Gilden Fenster"
 L["Guild Registrar"] = "Gildenregister"
 L["Help Frame"] = "Hilfe Fenster"
 L["Inspect Frame"] = "Betrachten Fenster"
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "Tastenbelegungs Fenster"
 L["LF Guild Frame"] = "LF Gilde Fenster"
 L["LFG Frame"] = "LFG Fenster"
 L["Loot Frames"] = "Würfel Fenster"
+L['Loss Control'] = true;
 L["Macro Frame"] = "Makro Fenster"
 L["Mail Frame"] = "Post Fenster"
 L["Merchant Frame"] = "Handels Fenster"
@@ -639,6 +641,7 @@ L["Trade Frame"] = "Handels Fenster"
 L["TradeSkill Frame"] = "Berufe Fenster"
 L["Trainer Frame"] = "Lehrer Fenster"
 L['Transmogrify Frame'] = 'Transmogrifikations Fenster'
+L['Void Storage'] = true;
 L["World Map"] = "Welt Karte"
 
 --Static Popups

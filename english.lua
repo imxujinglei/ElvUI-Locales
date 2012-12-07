@@ -601,10 +601,12 @@ L["Guild Frame"] = true;
 L["Guild Registrar"] = true;
 L["Help Frame"] = true;
 L["Inspect Frame"] = true;
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = true;
 L["LF Guild Frame"] = true;
 L["LFG Frame"] = true;
 L["Loot Frames"] = true;
+L['Loss Control'] = true;
 L["Macro Frame"] = true;
 L["Mail Frame"] = true;
 L["Merchant Frame"] = true;
@@ -631,6 +633,7 @@ L["Trade Frame"] = true;
 L["TradeSkill Frame"] = true;
 L["Trainer Frame"] = true;
 L['Transmogrify Frame'] = true;
+L['Void Storage'] = true;
 L["World Map"] = true;
 
 --Static Popups

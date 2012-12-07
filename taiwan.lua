@@ -611,10 +611,12 @@ L["Guild Frame"] = "公會";
 L["Guild Registrar"] = "公會註冊";
 L["Help Frame"] = "幫助";
 L["Inspect Frame"] = "裝備檢視";
+L['Item Upgrade'] = true;
 L["KeyBinding Frame"] = "快捷鍵";
 L["LF Guild Frame"] = "尋求公會";
 L["LFG Frame"] = true;
 L["Loot Frames"] = true;
+L['Loss Control'] = true;
 L["Macro Frame"] = "巨集";
 L["Mail Frame"] = "信箱";
 L["Merchant Frame"] = "商人";
@@ -641,6 +643,7 @@ L["Trade Frame"] = "交易";
 L["TradeSkill Frame"] = "專業技能";
 L["Trainer Frame"] = "訓練師";
 L['Transmogrify Frame'] = true;
+L['Void Storage'] = true;
 L["World Map"] = "世界地圖";
 
 --Static Popups
